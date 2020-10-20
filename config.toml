@@ -7,21 +7,6 @@ pygmentsCodefences = true
 #disableKinds = ["page"]
 
 
-[markup.highlight]
-codeFences = true
-guessSyntax = false
-hl_Lines = ""
-lineNoStart = 1
-lineNos = false
-lineNumbersInTable = true
-noClasses = true
-tabWidth = 2
-
-[privacy.googleAnalytics]
-anonymizeIP = true
-respectDoNotTrack = true
-useSessionStorage = false
-
 [author]
 name = "Dietmar Offenhuber"
 profile = ""
@@ -31,26 +16,17 @@ tag = "tags"
 
 [params]
 mainSections = [ "post" ]
-intro = true
+intro = false
 headline = "berlin_lokal_zeit"
 description = "Collaborative project."
-#github = "https://github.com/XXX"
-#gitlab = "https://gitlab.com/XXX"
-#linkedin = "https://linkedin.com/in/XXX/"
 twitter = "https://twitter.com/dietoff"
-#stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
 #facebook = "https://www.facebook.com/username"
 #email = "XXX@example.com"
 opengraph = true
 shareTwitter = true
 #rss = true
 #shareFacebook = true
-#shareLinkedIn = false
 dateFormat = "Mon, Jan 2, 2006"
-#exponeaJsUrl = ""
-#exponeaTarget = ""
-#exponeaToken = ""
-#exponeaTrackVisits = false
 readingTime = false
 #readingTimeText = "Estimated reading time:"
 #fathomUrl = ""
@@ -62,7 +38,6 @@ readingTime = false
 
 [permalinks]
 post = "/:year/:month/:day/:filename/"
-
 
 [[menu.main]]
     name = "About"
