@@ -1,0 +1,76 @@
+theme = "ghostwriter"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "berlin_lokal_zeit"
+pygmentsUseClasses = true
+pygmentsCodefences = true
+#disableKinds = ["page"]
+
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+tabWidth = 2
+
+[privacy.googleAnalytics]
+anonymizeIP = true
+respectDoNotTrack = true
+useSessionStorage = false
+
+[author]
+name = "Dietmar Offenhuber"
+profile = ""
+
+[taxonomies]
+tag = "tags"
+
+[params]
+mainSections = [ "post" ]
+intro = true
+headline = "berlin_lokal_zeit"
+description = "Collaborative project ..."
+#github = "https://github.com/XXX"
+#gitlab = "https://gitlab.com/XXX"
+#linkedin = "https://linkedin.com/in/XXX/"
+twitter = "https://twitter.com/XXX"
+#stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+#facebook = "https://www.facebook.com/username"
+#email = "XXX@example.com"
+opengraph = true
+shareTwitter = true
+#rss = true
+#shareFacebook = true
+#shareLinkedIn = false
+dateFormat = "Mon, Jan 2, 2006"
+#exponeaJsUrl = ""
+#exponeaTarget = ""
+#exponeaToken = ""
+#exponeaTrackVisits = false
+readingTime = false
+#readingTimeText = "Estimated reading time:"
+#fathomUrl = ""
+#fathomSiteId = ""
+
+#  [params.plausibleAnalytics]
+#  domain = ""
+#  serverURL = ""
+
+[permalinks]
+post = "/:year/:month/:day/:filename/"
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "CLB Berlin"
+    url = "https://www.clb-berlin.de/en/"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/rstudio"
+    
