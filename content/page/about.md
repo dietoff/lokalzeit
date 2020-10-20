@@ -5,4 +5,4 @@ description: about the project
 title: berlin_lokal_zeit
 ---
 
-![key vis gif](/page/about_files/comp 2_3.gif)
+![key vis gif](/page/img/keyvis.gif)
