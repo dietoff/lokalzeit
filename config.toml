@@ -1,11 +1,15 @@
+baseurl = "https://example.com/"
+title = "#berlin_lokal_zeit"
 theme = "ghostwriter"
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "berlin_lokal_zeit"
+copyright = "My Name"
 pygmentsUseClasses = true
 pygmentsCodefences = true
-#disableKinds = ["page"]
 
+[privacy.googleAnalytics]
+anonymizeIP = true
+respectDoNotTrack = true
+useSessionStorage = false
 
 [author]
 name = "Dietmar Offenhuber"
@@ -16,36 +20,44 @@ tag = "tags"
 
 [params]
 mainSections = [ "post" ]
-intro = false
-headline = "berlin_lokal_zeit"
-description = "Collaborative project."
-twitter = "https://twitter.com/dietoff"
-#facebook = "https://www.facebook.com/username"
-#email = "XXX@example.com"
+intro = true
+headline = "#berlin_lokal_zeit"
+description = "collaborative project ..."
+twitter = "https://twitter.com/XXX"
+facebook = "https://www.facebook.com/username"
+email = "XXX@example.com"
 opengraph = true
 shareTwitter = true
-#rss = true
-#shareFacebook = true
+rss = true
+shareFacebook = true
 dateFormat = "Mon, Jan 2, 2006"
 readingTime = false
-#readingTimeText = "Estimated reading time:"
-#fathomUrl = ""
-#fathomSiteId = ""
+readingTimeText = "Estimated reading time:"
 
-#  [params.plausibleAnalytics]
-#  domain = ""
-#  serverURL = ""
+  [params.plausibleAnalytics]
+  domain = ""
+  serverURL = ""
 
 [permalinks]
 post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "About"
-    url = "/page/about/"
+name = "Blog"
+url = "/post/"
+weight = 1
+
 [[menu.main]]
-    name = "CLB Berlin"
-    url = "https://www.clb-berlin.de/en/"
+name = "Projects"
+url = "/project/"
+weight = 2
+
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
-    
+name = "Contact"
+url = "/page/contact/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 4
+
