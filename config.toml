@@ -22,14 +22,14 @@ tag = "tags"
 mainSections = [ "post" ]
 intro = true
 headline = "#berlin_lokal_zeit"
-description = "collaborative project"
-twitter = "https://twitter.com/XXX"
-facebook = "https://www.facebook.com/username"
-email = "XXX@example.com"
+#description = "collaborative project"
+#twitter = "https://twitter.com/XXX"
+#facebook = "https://www.facebook.com/username"
+#email = "XXX@example.com"
 opengraph = true
-shareTwitter = true
-rss = true
-shareFacebook = true
+#shareTwitter = true
+#rss = true
+#shareFacebook = true
 dateFormat = "Mon, Jan 2, 2006"
 readingTime = false
 readingTimeText = "Estimated reading time:"
@@ -42,7 +42,7 @@ readingTimeText = "Estimated reading time:"
 post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-name = "About"
+name = "Zum Projekt"
 url = "/page/about/"
 weight = 1
 
@@ -52,17 +52,17 @@ url = "/post/"
 weight = 2
 
 [[menu.main]]
-name = "Projects"
+name = "Komponenten"
 url = "/project/"
 weight = 3
 
 [[menu.main]]
-name = "Participants"
+name = "Teilnehmer"
 url = "/page/participants/"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
+name = "Kontakt"
 url = "/page/contact/"
 weight = 5
 
