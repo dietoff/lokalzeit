@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://berlinlokalzeit.de"
 title = "#berlin_lokal_zeit"
 theme = "ghostwriter"
 languageCode = "en-us"
@@ -22,7 +22,7 @@ tag = "tags"
 mainSections = [ "post" ]
 intro = true
 headline = "#berlin_lokal_zeit"
-description = "collaborative project ..."
+description = "collaborative project"
 twitter = "https://twitter.com/XXX"
 facebook = "https://www.facebook.com/username"
 email = "XXX@example.com"
@@ -42,22 +42,29 @@ readingTimeText = "Estimated reading time:"
 post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-name = "Blog"
-url = "/post/"
+name = "About"
+url = "/page/about/"
 weight = 1
+
+[[menu.main]]
+name = "News"
+url = "/post/"
+weight = 2
 
 [[menu.main]]
 name = "Projects"
 url = "/project/"
-weight = 2
+weight = 3
+
+[[menu.main]]
+name = "Participants"
+url = "/page/participants/"
+weight = 4
 
 [[menu.main]]
 name = "Contact"
 url = "/page/contact/"
-weight = 3
+weight = 5
 
-[[menu.main]]
-name = "About"
-url = "/page/about/"
-weight = 4
+
 
