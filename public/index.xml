@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#berlin_lokal_zeit</title>
+    <link>/</link>
+    <description>Recent content on #berlin_lokal_zeit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>berlin_lokal_zeit</title>
+      <link>/project/tst/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/project/tst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/page/contact/</guid>
+      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
+    </item>
+    
+    <item>
+      <title>Teilnehmer</title>
+      <link>/page/participants/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      
+      <guid>/page/participants/</guid>
+      <description>Teilnehmer Peter Cusack
+Holger Schulze
+unosonic
+Zoe Spehr
+Sam Auinger
+Susanne Jaschko
+Maren Hartmann
+katrinem
+Ingrid Beirer
+Thomas Koch
+Martina Huber
+Eliot Felde
+Dietmar Offenhuber
+Linh Hoang Thuy
+Georg Spehr
+Ursula Rogg
+Nika Radić
+Kim Albrecht
+hannes strobl
+MaxJoy sensoricArt
+Sven Sappelt
+Paul Scraton</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/2014/09/28/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/2014/09/28/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/2014/04/02/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/2014/04/02/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Migrating from Jekyll</title>
+      <link>/2014/04/02/migrate-from-jekyll/</link>
+      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      
+      <guid>/2014/04/02/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Soundwalk, katrinem</title>
+      <link>/project/katrinem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/katrinem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soundwalk, Peter Cusack</title>
+      <link>/project/peter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/peter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>über das projekt</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>#berlin_lokal_zeit ist ein partizipatives Projekt, das sich zum Ziel gesetzt hat die Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu verarbeiten. Im April 2020, dem Höhepunkt der Lockdownphase, luden wir 30 Personen dazu ein ihre täglichen Beobachtungen, Reflexionen und Erfahrungen auf einer digitalen Plattform festzuhalten und miteinander zu teilen. Die Teilnehmer kommen aus verschiedenen Altersgruppen, sozialen und beruflichen Hintergründen. Ein Schwerpunkt der tagebuchähnlichen Beobachtungen liegt auf phänomenologischen Aspekten, insbesondere auditiver Natur: wie fühlt sich die Stadt im Lockdown an, wie klingt sie, welche unerwarteten Beobachtungen erregen unsere Aufmerksamkeit?</description>
+    </item>
+    
+  </channel>
+</rss>
