@@ -4,6 +4,7 @@
     {{ partial "intro.html" . }}
 
     <ol class="post-list">
+        
         {{ $pag := .Paginate .Pages }}
         {{ range $pag.Pages }}
             {{ partial "page-stub.html" . }}
