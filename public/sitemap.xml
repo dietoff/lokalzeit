@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/tst/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
@@ -30,16 +30,6 @@
   <url>
     <loc>/page/participants/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2014/09/28/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
   </url>
   
   <url>
@@ -63,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/2014/04/02/migrate-from-jekyll/</loc>
+    <loc>/post/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url>
   
@@ -80,6 +70,15 @@
   <url>
     <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2010/09/28/creating-a-new-theme/</loc>
+    <lastmod>2010-09-28T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/exhibition/</loc>
   </url>
   
   <url>

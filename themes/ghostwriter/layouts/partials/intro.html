@@ -2,5 +2,6 @@
     <header class="post-header">
         <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
         <p>{{ .Site.Params.description }}</p>
+        {{ .Content }}
     </header>
 {{ end }}

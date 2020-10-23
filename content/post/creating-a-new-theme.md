@@ -1,6 +1,6 @@
 ---
 author: Michael Henderson
-date: "2014-09-28T02:13:50Z"
+date: "2010-09-28T02:13:50Z"
 description: Description of my awesome project.
 title: Creating a New Theme
 ---
