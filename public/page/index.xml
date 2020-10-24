@@ -9,15 +9,6 @@
     <copyright>My Name</copyright>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>/page/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>/page/contact/</guid>
-      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
-    </item>
-    
-    <item>
       <title>Teilnehmer</title>
       <link>/page/participants/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
@@ -53,7 +44,20 @@ Paul Scraton</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/exhibition/</guid>
-      <description></description>
+      <description>Ausstellung   </description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/contact/</guid>
+      <description>ADRESSE UND KONTAKT CLB Berlin
+Aufbau Haus am Moritzplatz
+Prinzenstraße 84.2
+10969 Berlin-Kreuzberg
+kontakt@clb-berlin.de</description>
     </item>
     
     <item>

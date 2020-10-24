@@ -6,4 +6,5 @@ title: index
 
 *distance markers, Eliot Felde*
 
-Ausstellung CLB Berlin, Nov. 21
+Ausstellung und Events, [CLB Berlin](https://www.clb-berlin.de), Nov. 21
+
