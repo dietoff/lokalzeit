@@ -13,17 +13,7 @@
   </url>
   
   <url>
-    <loc>/page/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/page/participants/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
@@ -81,11 +71,19 @@
   </url>
   
   <url>
+    <loc>/page/</loc>
+  </url>
+  
+  <url>
     <loc>/project/katrinem/</loc>
   </url>
   
   <url>
     <loc>/project/peter/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/participants/</loc>
   </url>
   
   <url>
