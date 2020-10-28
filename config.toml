@@ -71,5 +71,9 @@ name = "Kontakt"
 url = "/page/contact/"
 weight = 6
 
+[[menu.main]]
+name = "Telegram"
+url = "https://aporee.org/t/berlinlokalzeit/index.html"
+weight = 6
 
 
