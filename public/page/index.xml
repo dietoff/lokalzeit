@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on #berlin_lokal_zeit</title>
-    <link>https://berlinlokalzeit.de/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on #berlin_lokal_zeit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>My Name</copyright><atom:link href="https://berlinlokalzeit.de/page/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>My Name</copyright><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://berlinlokalzeit.de/page/exhibition/</link>
+      <link>/page/exhibition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://berlinlokalzeit.de/page/exhibition/</guid>
+      <guid>/page/exhibition/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://berlinlokalzeit.de/page/contact/</link>
+      <link>/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://berlinlokalzeit.de/page/contact/</guid>
+      <guid>/page/contact/</guid>
       <description>ADRESSE UND KONTAKT CLB Berlin
 Aufbau Haus am Moritzplatz
 Prinzenstraße 84.2
@@ -31,20 +31,20 @@ kontakt@clb-berlin.de</description>
     
     <item>
       <title>Teilnehmer</title>
-      <link>https://berlinlokalzeit.de/page/participants/</link>
+      <link>/page/participants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://berlinlokalzeit.de/page/participants/</guid>
+      <guid>/page/participants/</guid>
       <description>Initiert von Sam Auinger und Dietmar Offenhuber
 Teilnehmer Peter Cusack | Holger Schulze | unosonic | Zoe Spehr | Sam Auinger | Susanne Jaschko | Maren Hartmann | katrinem | Ingrid Beirer | Thomas Koch | Martina Huber | Eliot Felde | Dietmar Offenhuber | Linh Hoang Thuy | Georg Spehr | Ursula Rogg | Nika Radić | Kim Albrecht | hannes strobl | Max Joy | Sven Sappelt | Paul Scraton | Almut Huefler</description>
     </item>
     
     <item>
       <title>über das projekt</title>
-      <link>https://berlinlokalzeit.de/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://berlinlokalzeit.de/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>#berlin_lokal_zeit ist ein partizipatives Projekt, das sich zum Ziel gesetzt hat die Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu verarbeiten. Im April 2020, dem Höhepunkt der Lockdownphase, luden wir 30 Personen dazu ein ihre täglichen Beobachtungen, Reflexionen und Erfahrungen auf einer digitalen Plattform festzuhalten und miteinander zu teilen. Die Teilnehmer kommen aus verschiedenen Altersgruppen, sozialen und beruflichen Hintergründen. Ein Schwerpunkt der tagebuchähnlichen Beobachtungen liegt auf phänomenologischen Aspekten, insbesondere auditiver Natur: wie fühlt sich die Stadt im Lockdown an, wie klingt sie, welche unerwarteten Beobachtungen erregen unsere Aufmerksamkeit?</description>
     </item>
     
