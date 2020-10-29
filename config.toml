@@ -11,10 +11,6 @@ anonymizeIP = true
 respectDoNotTrack = true
 useSessionStorage = false
 
-[author]
-name = "Dietmar Offenhuber"
-profile = ""
-
 [taxonomies]
 tag = "tags"
 
