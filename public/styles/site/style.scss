@@ -177,13 +177,13 @@ table {
     height: auto;
         min-height: 100%;
     /* This must be the same as the height of the footer */
-    margin-bottom: -265px;
+    margin-bottom: -100px;
 
     &:after {
         content: "";
         display: block;
         /* This must be the same as the height of the footer */
-        height: 265px;
+        height: 100px;
     }
 }
 
@@ -544,8 +544,8 @@ table {
 .footer {
     background: $secondary;
     color: #D3D3D3;
-    height: 265px;
-    margin-top: 95px;
+    height: 100px;
+    margin-top: 5px;
     overflow: auto;
 
     .site-title-wrapper { margin: 80px auto 35px; }
@@ -558,7 +558,7 @@ table {
 
 .footer-copyright {
     color: #656565;
-    font-size: 14px;
+    font-size: 12px;
     margin: 0;
     text-align: center;
     text-transform: uppercase;

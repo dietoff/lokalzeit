@@ -63,17 +63,17 @@ url = "/page/participants/"
 weight = 5
 
 [[menu.main]]
-name = "Kontakt"
-url = "/page/contact/"
+name = "Archiv"
+url = "/page/QR/"
 weight = 6
 
 [[menu.main]]
 name = "Telegram"
 url = "/page/telegram/"
-weight = 6
+weight = 7
 
 [[menu.main]]
-name = "Channels"
-url = "/page/QR/"
-weight = 6
+name = "Kontakt"
+url = "/page/contact/"
+weight = 8
 
