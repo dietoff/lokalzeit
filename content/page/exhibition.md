@@ -1,5 +1,5 @@
 ---
-description: Ausstellung im CLB Berlin
+Title: Ausstellung
 ---
 
 {{< figure src="/img/clb.jpg">}}

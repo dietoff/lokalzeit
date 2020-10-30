@@ -8,11 +8,20 @@
     <language>en-us</language>
     <copyright>My Name</copyright><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Ausstellung</title>
       <link>/page/exhibition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/exhibition/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Channel Browser</title>
+      <link>/page/qr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/qr/</guid>
       <description>  </description>
     </item>
     
@@ -26,7 +35,9 @@
 Aufbau Haus am Moritzplatz
 Prinzenstraße 84.2
 10969 Berlin-Kreuzberg
-kontakt@clb-berlin.de</description>
+kontakt@clb-berlin.de
+  Georg Spehr, 21. Mai 2020
+  </description>
     </item>
     
     <item>
@@ -54,9 +65,9 @@ Peter Cusack | Holger Schulze | unosonic | Zoe Spehr | Sam Auinger | Susanne Jas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/about/</guid>
-      <description>BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
-  Eliot Felde, 2. Mai 2020
-  30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet.</description>
+      <description>Eliot Felde, 2. Mai 2020
+  #BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
+30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet.</description>
     </item>
     
   </channel>

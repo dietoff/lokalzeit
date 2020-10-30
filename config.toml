@@ -72,4 +72,8 @@ name = "Telegram"
 url = "/page/telegram/"
 weight = 6
 
+[[menu.main]]
+name = "Channels"
+url = "/page/QR/"
+weight = 6
 
