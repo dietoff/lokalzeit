@@ -43,11 +43,6 @@ url = "/page/about/"
 weight = 1
 
 [[menu.main]]
-name = "News"
-url = "/post/"
-weight = 2
-
-[[menu.main]]
 name = "Ausstellung"
 url = "/page/exhibition/"
 weight = 3

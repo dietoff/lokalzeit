@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>berlin_lokal_zeit</title>
-      <link>/project/tst/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>/project/tst/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Hu)go Template Primer</title>
       <link>/2014/04/02/goisforlovers/</link>
@@ -38,20 +29,29 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title></title>
+      <link>/page/qr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/qr/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Abstimmungsmaschinen</title>
+      <link>/project/holger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/holger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ausstellung</title>
       <link>/page/exhibition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/exhibition/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Channel Archiv</title>
-      <link>/page/qr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/qr/</guid>
       <description>  </description>
     </item>
     
@@ -71,21 +71,22 @@ kontakt@clb-berlin.de
     </item>
     
     <item>
-      <title>Soundwalk, katrinem</title>
-      <link>/project/katrinem/</link>
+      <title>Soundwalk</title>
+      <link>/project/abstimmung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/katrinem/</guid>
+      <guid>/project/abstimmung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Soundwalk, Peter Cusack</title>
-      <link>/project/peter/</link>
+      <title>Stadtraumerkundung</title>
+      <link>/project/stadtraumerkundung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/peter/</guid>
-      <description></description>
+      <guid>/project/stadtraumerkundung/</guid>
+      <description>Stadtraumerkundung: Ursula Roegg, katrinem, Peter Cusack, Udo Noll, Sam Auinger, Georg Spehr, Dietmar Offenhuber.
+Hörend erleben wir Stadtatmosphären und ihre damit verbundenen Raumzeiten. Diesem Umstand spüren eine Reihe von Künstlerinnen mit ihren Aktionen und partizipativen Angeboten im konkreten urbanen Raum rund um den Moritzplatz nach. Es handelt sich dabei um eine Reihe von thematisch strukturierten Klang und Hörspaziergängen, und um geführte Aktionen für jeweils max. 15 Menschen. Für einige dieser Klangspaziergänge werden auch Partituren und Handlungsanweisungen entwickelt, für eine Selbst- und Eigenbegehung nach dem 20.</description>
     </item>
     
     <item>

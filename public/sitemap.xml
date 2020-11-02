@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/tst/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2014/04/02/goisforlovers/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url>
@@ -34,6 +19,11 @@
   
   <url>
     <loc>/tags/golang/</loc>
+    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2014-04-02T02:13:50+00:00</lastmod>
   </url>
   
@@ -63,11 +53,15 @@
   </url>
   
   <url>
-    <loc>/page/exhibition/</loc>
+    <loc>/page/qr/</loc>
   </url>
   
   <url>
-    <loc>/page/qr/</loc>
+    <loc>/project/holger/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/exhibition/</loc>
   </url>
   
   <url>
@@ -79,11 +73,15 @@
   </url>
   
   <url>
-    <loc>/project/katrinem/</loc>
+    <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>/project/peter/</loc>
+    <loc>/project/abstimmung/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/stadtraumerkundung/</loc>
   </url>
   
   <url>
