@@ -1,4 +1,4 @@
 ---
-author: Peter Cusack
-title: Soundwalk
+author: Susanne Jaschko
+title: Abstimmungsmaschinen
 ---
