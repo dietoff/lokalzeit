@@ -53,12 +53,12 @@ url = "/project/"
 weight = 4
 
 [[menu.main]]
-name = "Teilnehmer"
+name = "Teilnehmer & Kontakt"
 url = "/page/participants/"
 weight = 5
 
 [[menu.main]]
-name = "Archiv"
+name = "Logbuch"
 url = "/page/QR/"
 weight = 6
 
