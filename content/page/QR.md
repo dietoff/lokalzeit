@@ -1,5 +1,5 @@
 ---
-title: Berlin Lokal Zeit Logbuch
+title: Archiv
 description: Beobachtungen seit april 2020
 ---
 {{< rawhtml >}}

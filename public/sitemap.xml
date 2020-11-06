@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/page/exhibition/</loc>
+    <loc>/page/qr/</loc>
   </url>
   
   <url>
-    <loc>/page/qr/</loc>
+    <loc>/page/exhibition/</loc>
   </url>
   
   <url>
@@ -52,6 +52,10 @@
   
   <url>
     <loc>/page/telegram/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/vis/</loc>
   </url>
   
   <url>

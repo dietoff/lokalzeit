@@ -48,27 +48,33 @@ url = "/page/exhibition/"
 weight = 3
 
 [[menu.main]]
-name = "Komponenten"
+name = "Events"
 url = "/project/"
 weight = 4
 
 [[menu.main]]
-name = "Teilnehmer & Kontakt"
+name = "Teilnehmer"
 url = "/page/participants/"
 weight = 5
 
 [[menu.main]]
-name = "Logbuch"
+name = "Archiv"
 url = "/page/QR/"
 weight = 6
 
 [[menu.main]]
+name = "Visual"
+url = "https://projects.kimalbrecht.com/stadt-musik/03-force-timeline/07-add-images.html"
+weight = 7
+
+
+[[menu.main]]
 name = "Telegram"
 url = "/page/telegram/"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "Kontakt"
 url = "/page/contact/"
-weight = 8
+weight = 9
 
