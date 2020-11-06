@@ -7,6 +7,14 @@
   </url>
   
   <url>
+    <loc>/page/vis/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/archiv/</loc>
+  </url>
+  
+  <url>
     <loc>/page/exhibition/</loc>
   </url>
   
@@ -52,10 +60,6 @@
   
   <url>
     <loc>/page/telegram/</loc>
-  </url>
-  
-  <url>
-    <loc>/page/vis/</loc>
   </url>
   
   <url>

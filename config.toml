@@ -59,14 +59,8 @@ weight = 5
 
 [[menu.main]]
 name = "Archiv"
-url = "/page/QR/"
+url = "/page/archiv/"
 weight = 6
-
-[[menu.main]]
-name = "Visual"
-url = "https://projects.kimalbrecht.com/stadt-musik/03-force-timeline/07-add-images.html"
-weight = 7
-
 
 [[menu.main]]
 name = "Telegram"

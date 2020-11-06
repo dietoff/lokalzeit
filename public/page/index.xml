@@ -8,12 +8,30 @@
     <language>en-us</language>
     <copyright>My Name</copyright><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archiv</title>
+      <title></title>
       <link>/page/qr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/qr/</guid>
-      <description>  </description>
+      <description>Stadtraumbeobachtungen seit April 2020</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/page/vis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/vis/</guid>
+      <description>Archiv Visualisierung - Kim Albrecht</description>
+    </item>
+    
+    <item>
+      <title>archiv</title>
+      <link>/page/archiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/archiv/</guid>
+      <description>Channel Browser Blättere durch die Tagebucheinträge der Teilnehmer (neues Fenster)  Visualisierung Visualisierung der Einträge im zeitlichen Zusammenhang (Kim Albrecht) (neues Fenster)  </description>
     </item>
     
     <item>
@@ -56,15 +74,6 @@ Peter Cusack | Holger Schulze | unosonic | Zoe Spehr | Sam Auinger | Susanne Jas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/telegram/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Visualisierung</title>
-      <link>/page/vis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/vis/</guid>
       <description>  </description>
     </item>
     

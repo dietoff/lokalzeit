@@ -1,6 +1,6 @@
 ---
 title: Stadtraumerkundung
-description: von und mit Ursula Roegg, katrinem, Peter Cusack, Udo Noll, Sam Auinger, Georg Spehr, Dietmar Offenhuber
+description: Ursula Roegg, katrinem, Peter Cusack, Udo Noll, Sam Auinger, Georg Spehr, Dietmar Offenhuber
 ---
 
 Stadtraumerkundung: Ursula Roegg, katrinem, Peter Cusack, Udo Noll, Sam Auinger, Georg Spehr, Dietmar Offenhuber.
