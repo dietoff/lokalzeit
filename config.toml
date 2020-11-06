@@ -63,7 +63,7 @@ url = "/page/archiv/"
 weight = 6
 
 [[menu.main]]
-name = "Telegram"
+name = "Live"
 url = "/page/telegram/"
 weight = 8
 
