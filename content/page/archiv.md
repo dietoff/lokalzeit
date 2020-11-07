@@ -1,7 +1,8 @@
 ---
 title: archiv
-description: Corona - Stadtraumbeobachtungen seit April 2020
 ---
+
+Corona - Stadtraumbeobachtungen seit April 2020
 
 # Channel Browser
 Blättere durch die Tagebucheinträge der Teilnehmer

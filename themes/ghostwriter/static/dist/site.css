@@ -6,7 +6,7 @@ font-size: 14px;
 text-align: center;
 }
 body { margin: 0; }
-main { display: block; }
+main { display: block; } 
 h1 { font-size: 2em; margin: .67em 0; }
 hr { box-sizing: content-box; height: 0; overflow: visible; }
 pre { font-family: monospace, monospace; font-size: 1em; }
