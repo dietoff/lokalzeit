@@ -26,24 +26,6 @@
     </item>
     
     <item>
-      <title>prozessagenten - abstimmen</title>
-      <link>/project/abstimmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/abstimmen/</guid>
-      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.</description>
-    </item>
-    
-    <item>
-      <title>prozessagenten - nahbeidir</title>
-      <link>/project/nahbeidir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/nahbeidir/</guid>
-      <description>In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir .</description>
-    </item>
-    
-    <item>
       <title>Soundwalk Moritzplatz</title>
       <link>/project/cusack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +42,24 @@
       <guid>/project/stadtraumerkundung/</guid>
       <description>Stadtraumerkundung: Ursula Rogg, katrinem, Peter Cusack, Udo Noll, Sam Auinger, Georg Spehr, Dietmar Offenhuber.
 Hörend erleben wir Stadtatmosphären und ihre damit verbundenen Raumzeiten. Diesem Umstand spüren eine Reihe von Künstlerinnen mit ihren Aktionen und partizipativen Angeboten im konkreten urbanen Raum rund um den Moritzplatz nach. Es handelt sich dabei um eine Reihe von thematisch strukturierten Klang und Hörspaziergängen, und um geführte Aktionen für jeweils max. 15 Menschen. Für einige dieser Klangspaziergänge werden auch Partituren und Handlungsanweisungen entwickelt, für eine Selbst- und Eigenbegehung nach dem 20.</description>
+    </item>
+    
+    <item>
+      <title>‍‌#abstimmen</title>
+      <link>/project/abstimmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/abstimmen/</guid>
+      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.</description>
+    </item>
+    
+    <item>
+      <title>‍‌#nahbeidir</title>
+      <link>/project/nahbeidir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nahbeidir/</guid>
+      <description>In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir .</description>
     </item>
     
   </channel>

@@ -43,14 +43,6 @@
   </url>
   
   <url>
-    <loc>/project/abstimmen/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/nahbeidir/</loc>
-  </url>
-  
-  <url>
     <loc>/project/cusack/</loc>
   </url>
   
@@ -72,6 +64,14 @@
   
   <url>
     <loc>/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/abstimmen/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/nahbeidir/</loc>
   </url>
   
 </urlset>

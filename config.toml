@@ -17,7 +17,7 @@ tag = "tags"
 [params]
 mainSections = [ "post" ]
 intro = true
-headline = "#berlin ↦ lokal ↦ zeit"
+headline = "#berlin​↦​lokal​↦​zeit"
 #description = "collaborative project"
 #twitter = "https://twitter.com/XXX"
 #facebook = "https://www.facebook.com/username"

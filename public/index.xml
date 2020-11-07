@@ -82,24 +82,6 @@ kontakt@clb-berlin.de
     </item>
     
     <item>
-      <title>prozessagenten - abstimmen</title>
-      <link>/project/abstimmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/abstimmen/</guid>
-      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.</description>
-    </item>
-    
-    <item>
-      <title>prozessagenten - nahbeidir</title>
-      <link>/project/nahbeidir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/nahbeidir/</guid>
-      <description>In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir .</description>
-    </item>
-    
-    <item>
       <title>Soundwalk Moritzplatz</title>
       <link>/project/cusack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,6 +128,24 @@ Peter Cusack | Holger Schulze | unosonic | Zoe Spehr | Sam Auinger | Susanne Jas
       <description>Eliot Felde, 2. Mai 2020
   #BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
 30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet.</description>
+    </item>
+    
+    <item>
+      <title>‍‌#abstimmen</title>
+      <link>/project/abstimmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/abstimmen/</guid>
+      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.</description>
+    </item>
+    
+    <item>
+      <title>‍‌#nahbeidir</title>
+      <link>/project/nahbeidir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nahbeidir/</guid>
+      <description>In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir .</description>
     </item>
     
   </channel>
