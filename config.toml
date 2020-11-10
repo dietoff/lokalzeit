@@ -5,7 +5,7 @@ languageCode = "en-us"
 copyright = "My Name"
 pygmentsUseClasses = true
 pygmentsCodefences = true
-summary = "#BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren"
+author = "berlin_lokal_zeit"
 
 [privacy.googleAnalytics]
 anonymizeIP = true
@@ -19,6 +19,7 @@ tag = "tags"
 mainSections = [ "post" ]
 intro = true
 headline = "berlin​_​lokal​_​zeit"
+summary = "#BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt Stadtbeobachtungen während der Pandemie einzufangen und gemeinsam zu reflektieren."
 #description = "#BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?"
 facebook = "https://www.facebook.com/groups/644335199595125"
 telegram = "https://t.me/berlinlokalzeit"
