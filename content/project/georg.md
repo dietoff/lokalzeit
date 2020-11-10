@@ -1,7 +1,7 @@
 ---
 author: Georg Spehr
 title: Zwischen den Häusern sitzen.
-description: Stadtspaziergang in Georg Spehr
+description: Stadtspaziergang in Luisenstadt mit Georg Spehr
 ---
 
 {{< figure src="/img/_Walk_Georg Spehr_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
