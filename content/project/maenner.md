@@ -1,6 +1,7 @@
 ---
 title: Männer vom Moritzplatz
 description: Soundwalk von Ursula Rogg
+autor: Ursula Rogg
 ---
 
 Corona am Moritzplatz: Just Music verkauft obwohl es keine Konzerte gibt; Modulor brummt, aber aus Modellen werden keine Ausstellungen. Das Nix Verstehn reicht Tee über den Tresen, als Kaffeehaus und Treffpunkt aber ist es von der zweiten Welle  getroffen.

@@ -30,6 +30,55 @@
             <header class="site-header">
                 <div class="container">
                     
+<div class="site-title-wrapper">
+                        {{ with .Site.Params.logo }}
+                            <a class="site-logo" href="{{ .Site.BaseURL }}">
+                                <img src="{{ . }}" alt="{{ .Title }}" />
+                            </a>
+                        {{ else }}
+                            <h1 class="site-title">
+                                <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+                            </h1>
+                        {{ end }}
+                        {{ if .Site.Params.rss }}
+                            <a class="button-square" href="{{ .Site.BaseURL }}index.xml" aria-label="RSS"><i class="fa fa-rss" aria-hidden="true"></i></a>
+                        {{ end }}
+                        {{ with .Site.Params.twitter }}
+                            <a class="button-square button-social hint--top" data-hint="Twitter" aria-label="Twitter" href="{{ . }}" rel="me" >
+                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.facebook }}
+                            <a class="button-square button-social hint--top" data-hint="Facebook" aria-label="Facebook" href="{{ . }}" rel="me">
+                                <i class="fa fa-facebook" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.telegram }}
+                            <a class="button-square button-social hint--top" data-hint="Telegram" aria-label="Telegram" href="{{ . }}" rel="me">
+                                <i class="fa fa-telegram" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.instagram }}
+                            <a class="button-square button-social hint--top" data-hint="Instagram" aria-label="Instagram" href="{{ . }}" rel="me">
+                                <i class="fa fa-instagram" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.soundcloud }}
+                            <a class="button-square button-social hint--top" data-hint="Radio" aria-label="Radio" href="{{ . }}" rel="me">
+                                <i class="fa fa-file-sound-o" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.linkedin }}
+                            <a class="button-square button-social hint--top" data-hint="LinkedIn" aria-label="LinkedIn" href="{{ . }}" rel="me">
+                                <i class="fa fa-linkedin" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                        {{ with .Site.Params.email }}
+                            <a class="button-square button-social hint--top" data-hint="Email" aria-label="Send an Email" href="mailto:{{ . }}">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                            </a>
+                        {{ end }}
+                    </div>
 
                     <ul class="site-nav">
                         {{ partial "navigation.html" . }}
