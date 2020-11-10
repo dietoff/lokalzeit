@@ -1,6 +1,6 @@
 ---
 author: Georg Spehr
-title: Zwischen den Häusern sitzen
+title: Zwischen den Häusern sitzen.
 description: Stadtspaziergang in Georg Spehr
 ---
 
