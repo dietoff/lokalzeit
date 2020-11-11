@@ -21,7 +21,3 @@ Special attention is paid to the permanent seats and benches there. They enable 
 The walk begins and ends at Oranienstraße 64, diagonally opposite the Gallery CLB Berlin.
 
 {{< figure src="/img/_Walk_Georg Spehr_Image.jpg">}}
-
-
-
-
