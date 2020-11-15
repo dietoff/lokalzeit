@@ -47,12 +47,12 @@ url = "/page/about/"
 weight = 1
 
 [[menu.main]]
-name = "Ausstellung"
+name = "Installation"
 url = "/page/exhibition/"
 weight = 3
 
 [[menu.main]]
-name = "Events"
+name = "Programm"
 url = "/project/"
 weight = 4
 
