@@ -7,7 +7,7 @@ Corona - Stadtraumbeobachtungen seit April 2020
 # Channel Browser
 Blättere durch die Tagebucheinträge der Teilnehmer
 {{< rawhtml >}}
-<a href="https://azmar.org/qr/?c=1" target="_blank">(neues Fenster) </a>
+<a href="/page/channels.html?c=1" target="_blank">(neues Fenster) </a>
 {{< /rawhtml >}}
 
 # Visualisierung
