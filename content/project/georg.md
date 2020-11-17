@@ -1,6 +1,12 @@
+---
+author: Georg Spehr
+title: Zwischen den Häusern sitzen.
+description: Soundwalk von Georg Spehr
+---
+
 {{< figure src="/img/_Walk_Georg Spehr_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
 
-Ein Stadtspaziergang mit Sitzgelegenheiten in der S�dwestlichen Luisenstadt.
+Ein Stadtspaziergang mit Sitzgelegenheiten in der Südwestlichen Luisenstadt.
 
 Der Kreuzberger Teil der Luisenstadt ist vieles: Altes Berlin und Aufbaugebiet, Kahlschlagsanierung und Stadterneuerung, Mauerrandlage und exponiertes Zentrum, sozialer Wohnungsbau und Spekulationsobjekt. Dieser Stadtspaziergang durchstreift zwischen Lindenstraße und Prinzenstraße ein Gebiet, in dem mehr als 10.000 Menschen leben und das eine vielfältige Stadtentwicklung von mehr als 100 Jahren beinhaltet.
 

@@ -1,26 +1,18 @@
 ---
-author: Georg Spehr
-title: Zwischen den Häusern sitzen.
-description: Soundwalk von Georg Spehr
+author: Peter Cusack
+title: Hinterhöfe, fences, communities
+description: Soundwalk von Peter Cusack
 ---
 
-{{< figure src="/img/_Walk_Georg Spehr_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
+{{< figure src="/img/test_peter_cusack_shape.jpg" class="figure-sm" caption="Route Moritzplatz">}}
 
-Ein Stadtspaziergang mit Sitzgelegenheiten in der Südwestlichen Luisenstadt.
+Dieser Soundwalk rund um den Moritzplatz konzentriert sich auf die Vielfalt der dortigen Hinterhöfe. Diese bieten eine Vielzahl von klanglichen Orten und trennen von den belebten Straßen außerhalb.
+Es gibt hier alte Höfe, die durch schmale Bögen betreten werden und exotische Gärten, umschlossen von Wohnanlagen, die so neu sind, dass Menschen immer noch einziehen. Und es gibt grüne, baumbepflanzte Flächen zwischen den hohen Gebäuden, die man zur Zeit der Berliner Mauer für gemeinsame Nutzung plante, heute aber durch Gatter und ein Labyrinth aus Drahtzäunen voneinander getrennt sind. Der Spaziergang richtet seine Aufmerksamkeit auf die Akustik dieser Orte und auf die Klänge und Geräusche der dortigen Bewohner*innen, ihre murmelnden Stimmen und raschelnden Einkaufstaschen, auf das Dröhnen der U-Bahn aus verschiedenen Richtungen, die Krähen in den Baumwipfeln, die Schritte im Herbstlaub, auf ferne Motorräder, aufgeregte Spatzen und Echos von spielenden Kindern.
 
-Der Kreuzberger Teil der Luisenstadt ist vieles: Altes Berlin und Aufbaugebiet, Kahlschlagsanierung und Stadterneuerung, Mauerrandlage und exponiertes Zentrum, sozialer Wohnungsbau und Spekulationsobjekt. Dieser Stadtspaziergang durchstreift zwischen Lindenstraße und Prinzenstraße ein Gebiet, in dem mehr als 10.000 Menschen leben und das eine vielfältige Stadtentwicklung von mehr als 100 Jahren beinhaltet.
+This soundwalk around the Moritzplatz area focusses on the huge variety of Hinterhöfe there and the multitude of sonic places they create and isolate from the busy streets outside. There are old courtyards entered through narrow arches, exotic gardens enclosed by apartments so new that people are still moving in and green, wooded spaces between high buildings planned to be shared at the time of the Berlin wall but now divided by gates and a maze of wire fences. The walk pays close attention to the acoustics of these places and the sounds of the communities for whom this is home – murmuring voices and rustling shopping bags; the U-Bahn roar that appears from different directions as it reverberates around the spaces; crows in the tree tops; footsteps in autumn leaves; distant motorbikes; excited sparrows; echoes of children at play.
 
-Ein besonderes Augenmerk liegt dabei auf fest installierten Sitzbänken, die dazu einladen, hier einen längeren Moment zu verweilen und sich mit der Atmosphäre des jeweiligen Ortes auseinanderzusetzen. Meist an Spielplätzen, Grünanlagen oder Bushaltestellen zu finden, gibt es darüber hinaus einige Bänke an Orten, wo man offenbar nur Hausfassaden, Zäune oder den vorbei ziehenden Verkehr betrachten kann. Alle Bänke laden ein, die Umgebung hörend zu beobachten und je nach architektonischer Situation, Wetter und Tageszeit den Puls der Stadt wahrzunehmen.
+{{< figure src="/img/peter_hinterhoefe.jpg">}}
 
-Der Spaziergang beginnt und endet am Moritzplatz, vor dem Eingang des Aufbauhauses.
 
- 
-A city walk with seating in the southwestern Luisenstadt.
 
-The Kreuzberg part of Luisenstadt is very varied. It is historic Berlin and a development area, a site of total redevelopment and urban renewal, a place once located along the edge of the Berlin Wall now in the city centre, a district of both social housing and intense property speculation. This city walk passes between Lindenstrasse and Prinzenstrasse through an area where more than 10,000 people live and which has seen diverse urban development for more than 100 years.
 
-Special attention is paid to the permanent seats and benches there. They enable you to sit for a longer time and engage with the atmosphere of the locations. Most are found in playgrounds, green areas or at bus stops, but there are also some more strangely placed apparently only to see house facades, fences or the passing traffic. All the benches invite you to listen to the surroundings and, depending on the architecture, weather and time of day, to take the pulse of the city.
-
-The walk begins and ends at Moritzplatz, in front of the entrance to the Aufbauhaus.
-
-{{< figure src="/img/_Walk_Georg Spehr_Image.jpg">}}
