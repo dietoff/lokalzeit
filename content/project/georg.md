@@ -4,7 +4,7 @@ title: Zwischen den Häusern sitzen.
 description: Soundwalk von Georg Spehr
 ---
 
-{{< figure src="/img/_Walk_Spehr_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
+{{< figure src="/img/_Walk_Georg_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
 
 Ein Stadtspaziergang mit Sitzgelegenheiten in der Südwestlichen Luisenstadt.
 
