@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <script src="https://code.jquery.com/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
+
+  <style type="text/css">
+  html, body {width: 100%; height: 100%; overflow: hidden;}
+  body { padding: 0px; margin: 10; }
+  #prv, #nxt, #c {width: 100%; height:100%; border: none; text-transform: uppercase; font-weight: bold;}
+  #heading {font-weight: bold;}
+  .fit { max-width: 100%; max-height: 80vh; object-fit: contain;}
+
+  .dropdown-menu{ height:auto; max-height:80vh; overflow-y:auto;}
+  .dropdown-menu-center {left: 50% !important; right: auto !important; text-align: center !important; transform: translate(-50%, 3em) !important;}
+  .dropdown-item.active, .dropdown-item:active {background-color: #000 !important;}
+
+  @media screen and (max-width: 1024px) {
+    #msgbody {display: flex; flex-direction: column; overflow-y: scroll; width: auto; padding: 1em;}
+  }
+  @media screen and (min-width: 1025px){
+    #msgbody {display: flex; flex-direction: column; overflow-y: scroll; width: 90vmin; }
+  }
+  </style>
+
+</head>
+<body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="../dist/bootstrap.min.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.2/d3.min.js"></script>
+
+  <script>$(function(){
+    $(document).keyup(function(e) {
+      if (e.which == 39) $('#nxt').click()
+      if (e.which == 37) $('#prv').click()
+      if (e.which == 38) $('#c').click()
+      if (e.which == 40) $('#c').click()
+    });
+  })</script>
+
+  <div style="display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;width:100%;height:3em;">
+    <div style="position:relative;-webkit-flex:1;-ms-flex:1;flex:1;width:100%;height:100%;">
+      <div style="position:absolute;top:0;left:0;right:0;bottom:0;">
+        <button id="prv" type="button" class="btn btn-danger"> << </button>
+      </div>
+    </div>
+    <div style="position:relative;-webkit-flex:3;-ms-flex:3;flex:3;width:100%;height:100%;">
+      <div style="position:absolute;top:0;left:0;right:0;bottom:0;">
+        <div class="dropdown" style="height:3em;">
+          <button class="btn btn-outline-danger dropdown-toggle" id="c" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">channel</button>
+          <div class="dropdown-menu dropdown-menu-center" id="menu" aria-labelledby="c">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="position:relative;-webkit-flex:1;-ms-flex:1;flex:1;width:100%;height:100%;">
+      <div style="position:absolute;top:0;left:0;right:0;bottom:0;">
+        <button id="nxt" type="button" class="btn btn-danger"> >> </button>
+      </div>
+    </div>
+  </div>
+  <div align="center" style="display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:100%;height:100%;">
+    <div style="position:relative;-webkit-flex:1;-ms-flex:1;flex:1;width:100%;height:100%;">
+      <div style="position:absolute;top:0;left:0;right:0;bottom:0;">
+        <div id="content" style="display:flex;flex-direction:column; align-items: center; justify-content:space-between; height:90vh;">
+          <div id="heading"></div>
+          <div class="desktop" id="msgbody"></div>
+          <div id="bottom"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+  const params = new URLSearchParams(window.location.search);
+  const urlidx = parseInt(params.get("i"));
+  const urlchn = parseInt(params.get("c"));
+
+  var index = 0;
+  var maxchan;
+  var maxindex;
+  var channel = 0;
+  var channels;
+  var currentchan;
+  var slack;
+
+  if (!isNaN(urlchn)){
+    channel = d3.min([urlchn, maxchan]);
+  }
+
+  if (!isNaN(urlidx)){
+    index = d3.min([urlidx, maxindex]);
+  }
+
+  d3.csv("../doc/filtered.csv", function(data) {
+    var tmpset = new Set();
+    var formatTime = d3.timeFormat("%d. %m. %Y, %H:%M h");
+    data.forEach( row => {
+      tmpset.add(row.channel);
+      row.date = formatTime(new Date(row.time));
+    });
+
+    channels = Array.from(tmpset);
+    maxchan = channels.length;
+
+    channels.forEach( (chn,i) => d3.select("#menu")
+    .append("a")
+    .attr("class", "dropdown-item")
+    .attr("href", window.location.href.split('?')[0]+"?c="+i)
+    .text(chn))
+
+    slack = data;
+    updateChan();
+    updateText();
+  });
+
+  function updateChan() {
+    currentchan = slack.filter( sfg => sfg.channel == channels[channel])
+    maxindex = currentchan.length;
+    d3.select("#c").text("#"+channels[channel]);
+  }
+
+  function updateText() {
+    d3.select('#heading')
+    .text(currentchan[index].real_name+" am "+currentchan[index].date);
+    d3.select('#msgbody')
+    .html(currentchan[index].text);
+  }
+
+  function goNext() {
+    index++;
+    index = d3.min([index,maxindex]);
+    updateText();
+    params.set('i', index); history.replaceState(null, null, '?'+params);
+  }
+
+  function goPrv() {
+    index--;
+    index = d3.max([index, 0]);
+    updateText();
+    params.set('i', index); history.replaceState(null, null, '?'+params);
+  }
+
+  function goChn() {
+    channel++;
+    channel = channel%maxchan;
+    updateChan();
+    index=0;
+    updateText();
+    params.set('c', channel); params.set('i', index); history.replaceState(null, null, '?'+params);
+  }
+
+  d3.select("#nxt").on("click", goNext);
+  d3.select("#prv").on("click", goPrv);
+  //d3.select("#c").on("click", goChn);
+
+  </script>
+
+</body>
+</html>
