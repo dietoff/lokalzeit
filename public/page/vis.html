@@ -79,7 +79,7 @@ var div = d3.select("body").append("div")
 
 function loadData() {
 
-  d3.csv('./01-combined.csv', function(error, data) {
+  d3.csv('../doc/merged_z.csv', function(error, data) {
     if (error) throw error;
 
     xScale.domain(d3.extent(data, function(d) { return dateParse(d.time); }));
