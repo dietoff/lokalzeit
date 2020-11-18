@@ -17,6 +17,7 @@ tag = "tags"
 
 [params]
 mainSections = [ "post" ]
+paginate = 100
 intro = true
 headline = "berlin​_​lokal​_​zeit"
 summary = "#BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt Stadtbeobachtungen während der Pandemie einzufangen und gemeinsam zu reflektieren."
