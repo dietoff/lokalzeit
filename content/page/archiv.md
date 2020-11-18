@@ -13,5 +13,5 @@ Blättere durch die Tagebucheinträge der Teilnehmer
 # Visualisierung
 Visualisierung der Einträge im zeitlichen Zusammenhang (Kim Albrecht)
 {{< rawhtml >}}
-<a href="https://projects.kimalbrecht.com/stadt-musik/03-force-timeline/07-add-images.html" target="_blank">(neues Fenster) </a>
+<a href="/page/vis.html" target="_blank">(neues Fenster) </a>
 {{< /rawhtml >}}
