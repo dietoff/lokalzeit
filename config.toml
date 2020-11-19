@@ -12,6 +12,9 @@ anonymizeIP = true
 respectDoNotTrack = true
 useSessionStorage = false
 
+[markup.goldmark.renderer] 
+unsafe= true
+
 [taxonomies]
 tag = "tags"
 

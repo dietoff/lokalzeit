@@ -8,31 +8,31 @@ Seit März 2020 gesammelte Wortschöpfungen und Begriffe aus dem öffentlichen M
 
 Die Wörter sollen ein Kopfkino starten, einen inneren Klang hervorrufen, Erinnerungen und Assoziationen, oder sie können die Situation karikieren und uns zum Lachen bringen. Hier eine kleine Auswahl:
 
-Negativ-Test
-Intensivbetten
-Helikoptergeld
-Masken-Diplomatie
-Video-Gipfel
-Lockdown light
-Jojo-Schutdown
-Wellenbrecher-Lockdown
-Impfzentren
-Corona-Kabinett
-Intensivkapazitäten
-Herbstprojektion
-Corona-Parties
-Cluster-Verfolgung
-Schlachtkapazitäten
-Maskenproduktion
-Rückholaktion
-Baumarkt-Tourismus
-Geister-Spiele
-Alltags-Masken
-Popup-Biergärten
-Hygiene-Demos
-Innenraumlufthygienekommission
-Corona-Taskforce
-Abstrich-Management
-Lüftungs-Gipfel
-
-
+{{% center %}}
+Negativ-Test  
+Intensivbetten  
+Helikoptergeld  
+Masken-Diplomatie  
+Video-Gipfel  
+Lockdown light  
+Jojo-Schutdown  
+Wellenbrecher-Lockdown  
+Impfzentren  
+Corona-Kabinett  
+Intensivkapazitäten  
+Herbstprojektion  
+Corona-Parties  
+Cluster-Verfolgung  
+Schlachtkapazitäten  
+Maskenproduktion  
+Rückholaktion  
+Baumarkt-Tourismus  
+Geister-Spiele  
+Alltags-Masken  
+Popup-Biergärten  
+Hygiene-Demos  
+Innenraumlufthygienekommission  
+Corona-Taskforce  
+Abstrich-Management  
+Lüftungs-Gipfel  
+{{% /center %}}
