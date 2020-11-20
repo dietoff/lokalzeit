@@ -98,7 +98,7 @@
     index = d3.min([urlidx, maxindex]);
   }
 
-  d3.csv("../doc/filtered_orig.csv", function(data) {
+  d3.csv("../doc/filtered.csv", function(data) {
     var tmpset = new Set();
     var formatTime = d3.timeFormat("%d. %m. %Y, %H:%M h");
     data.forEach( row => {
