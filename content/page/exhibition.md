@@ -8,7 +8,7 @@ QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum.
 
 "[walking alone](https://vimeo.com/476906437)" von katrinem  
 "[virtual preview]({{< relref "/project/nika.md" >}})" von Nika Radić  
-"Mein Fenster" von Zoe Spehr  
+"[Digitales Fenster]({{< relref "/project/zoe.md" >}})" von Zoe Spehr  
 Berlin_Lokal_Zeit Archiv  
 
 
