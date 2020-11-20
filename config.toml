@@ -6,6 +6,7 @@ copyright = "My Name"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 author = "berlin_lokal_zeit"
+paginate = 20
 
 [privacy.googleAnalytics]
 anonymizeIP = true
@@ -20,7 +21,6 @@ tag = "tags"
 
 [params]
 mainSections = [ "post" ]
-paginate = 100
 intro = true
 headline = "berlin​_​lokal​_​zeit"
 summary = "#BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt Stadtbeobachtungen während der Pandemie einzufangen und gemeinsam zu reflektieren."
