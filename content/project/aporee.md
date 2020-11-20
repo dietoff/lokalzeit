@@ -1,7 +1,7 @@
 ---
 author: Udo Noll
 title: Radio Aporee
-description: Udo Noll
+description: Radioprogramm von Udo Noll
 ---
 
 ### radio aporee @ berlin_lokal_zeit

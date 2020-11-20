@@ -10,3 +10,4 @@ Mein digitales Fenster.
 
 Eine spürbarer Abstand und eine gewisse Verfremdung der beteiligten Personen lässt sich dabei nicht verhindern, sodass die Isolation langsam wächst.  
 
+{{< figure src="/img/zoe.jpg" class="figure-sm" caption="Mein digitales Fenster, Zoe Spehr 2020">}}
