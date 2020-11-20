@@ -8,5 +8,5 @@ title: über das projekt
 
 30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet. Diese phänomenologischen Beschreibungen laden in einer Rauminstallation zur Entdeckung, Kommentierung und zum Beitragen eigener Beobachtungen ein. Künstlerische Arbeiten, Aktionen sowie Walks im Stadtraum erweitern den geteilten Erfahrungsraum und führen ihn fort.
 
-
-
+Unterstützt von
+{{< figure src="/img/sponsors.png">}}
