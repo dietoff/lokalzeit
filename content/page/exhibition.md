@@ -9,6 +9,8 @@ QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum.
 "[walking alone](https://vimeo.com/476906437)" von katrinem  
 "[virtual preview]({{< relref "/project/nika.md" >}})" von Nika Radić  
 "[Digitales Fenster]({{< relref "/project/zoe.md" >}})" von Zoe Spehr  
+"[Corona-Neusprech]({{< relref "/project/penko.md" >}})" von Max Joy  
+"[#abstimmen]({{< relref "/project/abstimmen.md" >}})" und "[#nahbeidir]({{< relref "/project/nahbeidir.md" >}})" von Susanne Jaschko  
 Berlin_Lokal_Zeit Archiv  
 
 
