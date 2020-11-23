@@ -9,4 +9,6 @@ Die Stimmen der  Männer vom Moritzplatz (diesmal Männer, ausnahmsweise) gehör
 
 Geführte Spaziergänge mit Audio-Einspielungen am 5. und 9. Dezember jeweils 16 Uhr (ca 90 min)
 
+[Männer vom Moritzplatz pdf](../../doc/MännervomMoritzplatz_ursulaRogg.pdf)
+
 Die gesammelten Episoden sind [hier zu finden](https://soundcloud.com/user-53614921).
