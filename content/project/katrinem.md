@@ -17,7 +17,7 @@ Using the Galerie CLB at Moritzplatz as a starting point, I have created a path 
 
 *Try to maintain an even walking rhythm for the entire length of the path and wear shoes with hard soles that make your steps 'audible'. Listening to the sound of your footsteps, their pace and rhythm, is a very good way to sense different spatialities along the route. Transitions from one acoustic space to another and small changes within the same space all have effects that can be heard. Your "shoe instruments" become soloists in the space, creating a dialogue with the surroundings that situates you sonically in places as you walk.*
 
-[SCHUHzuGEHÖR Karte](../../doc/katrinem.pdf)
+[SCHUHzuGEHÖR Karte & Beschreibung](../../doc/katrinem.pdf)
 
 
 {{< rawhtml >}}
