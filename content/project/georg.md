@@ -23,6 +23,6 @@ Special attention is paid to the permanent seats and benches there. They enable 
 
 The walk begins and ends at Moritzplatz, in front of the entrance to the Aufbauhaus.
 
-[Soundwalk Karte+Text](../../doc/Georg Spehr_Soundwalk.pdf)
+[Soundwalk Karte und Text](../../doc/Spehr_Soundwalk.pdf)
 
 {{< figure src="/img/_Walk_Georg Spehr_Image.jpg">}}
