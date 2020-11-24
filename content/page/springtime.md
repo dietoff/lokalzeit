@@ -1,5 +1,7 @@
 ## Berlin Springtime 
 
+![Berlin Springtime](/img/paul1.jpg)
+
 By Paul Scraton 
 
 On a walk from my apartment I come across an empty sandpit, surrounded by low green fences, the entrance blocked with red and white tape. Laminated signs on the playground gate. Closed. By order of the district.  
@@ -43,7 +45,7 @@ In front of Cafe Alibi, Georg S. comes across a [trailer from Die Linke](https:/
 
 *Zu bezahlen*
 
-
+![Berlin Springtime](/img/paul2.jpg)
 
 There is a certain joy in a city stalled, in the break from the norm and the disruption of routine, but sooner or later time turns this strange pleasure into anxiety. On the stairs my musician neighbour counts off the sessions cancelled and the gigs that will never take place. Teaching and busking, he says, answering my question with a wry smile. He’s done it before.
 
@@ -58,6 +60,8 @@ As well as my longer walks, I try and go out with my daughter each afternoon, on
 Georg S. is on Oranienstraße and Wienerstraße, where the pubs, clubs and bars are [shuttered and dark](https://berlinlokalzeit.de/page/channels.html?c=8&i=33). The soundtrack of the city has changed, the nightlife stilled. Who will come out the other side? How will the crisis reshape our city?
 
 On the stairs of our building on Osloer Straße I meet our neighbours from a few floors below. Their girls have been home, their restaurant was closed. We do not know each other well enough to ask and answer the questions that hang in the musty stairwell between us. How long, how long. Time means everything right now, and everyone’s limit is different.
+
+![Berlin Springtime](/img/paul3.jpg)
 
 Max J. collates the [new language of our times](https://berlinlokalzeit.de/page/channels.html?c=10&i=25).
 
@@ -104,3 +108,5 @@ We cannot know what the Berlin springtime means, because it’s not over yet.
 ---
 
 *By Paul Scraton, with material from the audio, visual and written diary entries of various members of [Berlin_Lokal_Zeit](https://berlinlokalzeit.de).*
+
+![Berlin Springtime](/img/paul4.jpg)
