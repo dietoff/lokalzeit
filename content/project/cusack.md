@@ -4,6 +4,8 @@ title: Hinterhöfe, fences, communities
 description: Soundwalk von Peter Cusack
 ---
 
+[Soundwalk Part 1 pdf](../../doc/PeterCusack_Soundwalk_Part1.pdf)
+
 {{< figure src="/img/test_peter_cusack_shape.jpg" class="figure-sm" caption="Route Moritzplatz">}}
 
 Dieser Soundwalk rund um den Moritzplatz konzentriert sich auf die Vielfalt der dortigen Hinterhöfe. Diese bieten eine Vielzahl von klanglichen Orten und trennen von den belebten Straßen außerhalb.
@@ -17,7 +19,6 @@ This soundwalk around the Moritzplatz area focusses on the huge variety of Hinte
 
 The walk is in 2 parts – north and south of Oranienstrasse – each takes perhaps an hour. Please treat them separately if you wish. The numbers are points of sonic interest along the way. The links are to the radio aporee sound map where recordings can be heard.
 
-[Part 1](../../doc/PeterCusack_Soundwalk_Part1.pdf)
 
 {{< figure src="/img/peter_hinterhoefe.jpg">}}
 

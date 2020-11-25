@@ -3,6 +3,7 @@ author: Georg Spehr
 title: Zwischen den Häusern sitzen.
 description: Soundwalk von Georg Spehr
 ---
+[Soundwalk Karte und Text pdf](../../doc/Spehr_Soundwalk.pdf)
 
 {{< figure src="/img/_Walk_Georg_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
 
@@ -22,7 +23,5 @@ The Kreuzberg part of Luisenstadt is very varied. It is historic Berlin and a de
 Special attention is paid to the permanent seats and benches there. They enable you to sit for a longer time and engage with the atmosphere of the locations. Most are found in playgrounds, green areas or at bus stops, but there are also some more strangely placed apparently only to see house facades, fences or the passing traffic. All the benches invite you to listen to the surroundings and, depending on the architecture, weather and time of day, to take the pulse of the city.
 
 The walk begins and ends at Moritzplatz, in front of the entrance to the Aufbauhaus.
-
-[Soundwalk Karte und Text](../../doc/Spehr_Soundwalk.pdf)
 
 {{< figure src="/img/_Walk_Georg Spehr_Image.jpg">}}

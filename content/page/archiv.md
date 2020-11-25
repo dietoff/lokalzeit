@@ -4,8 +4,6 @@ title: Beobachtungen (Archiv)
 
 Archiv der Stadtraumbeobachtungen seit April 2020
 
-
-
 # Channel Browser
 Blättere durch die Tagebucheinträge der Teilnehmer
 {{< rawhtml >}}

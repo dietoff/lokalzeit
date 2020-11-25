@@ -17,7 +17,6 @@ interessierte und vorbeigehende können sich mit hilfe eines qr codes einloggen 
 *komposition für elektrischen bass, live fx und umgebungsklang vor ort. 
 hannes strobl: elektrischer bass, live fx*
 
-
 #### hannes strobl / lockdown 2
 
 since the first shutdown in the spring of 2020, my berlin studio has developed a
