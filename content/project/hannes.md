@@ -2,7 +2,7 @@
 author: Hannes Strobl
 title: on air - Lockdown 2
 description: live performance von Hannes Strobl
-tag: ["onair"]
+tags: ["onair"]
 ---
 
 #### hannes strobl / lockdown 2
