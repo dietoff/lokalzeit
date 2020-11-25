@@ -78,7 +78,7 @@ url = "/page/telegram/"
 weight = 8
 
 [[menu.main]]
-name = "Downloads"
+name = "Downloads / Presse"
 url = "/page/downloads/"
 weight = 9
 
