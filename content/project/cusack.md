@@ -2,7 +2,7 @@
 author: Peter Cusack
 title: on tour - Hinterhöfe, fences, communities
 description: Soundwalk von Peter Cusack
-tag: on tour
+tag: ontour
 ---
 
 [Soundwalk Part 1 pdf](../../doc/PeterCusack_Soundwalk_Part1.pdf)
