@@ -2,6 +2,7 @@
 author: Maren Hartmann
 title: on air - Zeitgabenzaun
 description: Maren Hartmann
+tags: ["onair"]
 ---
 
 Obdachlose finden an einem [Gabenzaun](https://alltaginderkrise.org/tag/obdachlosigkeit/) seit dem Shutdown im Pandemiefrühling 2020 Kleider, Lebensmittel, auch kleinere Haushaltsgegenstände. In Taschen und Tüten hängen sie dort, oft an Parkanlagen oder öffentlichen Plätzen. Weithin sichtbare Schilder weisen darauf hin.

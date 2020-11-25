@@ -2,6 +2,7 @@
 author: Zoe Spehr
 title: on site - digitales Fenster
 description: Videoinstallation von Zoe Spehr
+tags: ["onsite"]
 ---
 
 In Zeiten des Corona-Lockdowns waren meine Verbindungen zur Außenwelt die digitalen Calls über diverse Programme wie Skype oder Zoom.  

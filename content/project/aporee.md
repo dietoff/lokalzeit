@@ -2,7 +2,7 @@
 author: Udo Noll
 title: on air - Radio Aporee
 description: Radioprogramm von Udo Noll
-tag: onair
+tag: ["onair"]
 ---
 
 ### radio aporee @ berlin_lokal_zeit
