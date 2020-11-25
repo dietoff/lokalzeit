@@ -1,6 +1,6 @@
 ---
 author: Holger Schulze
-title: Fünf Riechübungen
+title: on tour - Fünf Riechübungen
 description: Öffentliches Experiment von Holger Schulze
 ---
 

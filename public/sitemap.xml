@@ -27,6 +27,38 @@
   </url>
   
   <url>
+    <loc>/project/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/downloads/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/hannes/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/ursula/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/aporee/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/maren/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/abstimmen/</loc>
+  </url>
+  
+  <url>
     <loc>/project/penko/</loc>
   </url>
   
@@ -35,7 +67,11 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/project/nahbeidir/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/nika/</loc>
   </url>
   
   <url>
@@ -47,31 +83,19 @@
   </url>
   
   <url>
-    <loc>/page/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/hannes/</loc>
-  </url>
-  
-  <url>
     <loc>/project/sam/</loc>
   </url>
   
   <url>
-    <loc>/project/ursula/</loc>
+    <loc>/project/katrinem/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/georg/</loc>
   </url>
   
   <url>
     <loc>/page/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/aporee/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/katrinem/</loc>
   </url>
   
   <url>
@@ -87,27 +111,7 @@
   </url>
   
   <url>
-    <loc>/project/nika/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/maren/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/georg/</loc>
-  </url>
-  
-  <url>
     <loc>/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/abstimmen/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/nahbeidir/</loc>
   </url>
   
 </urlset>

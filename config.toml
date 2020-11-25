@@ -75,5 +75,8 @@ name = "Live"
 url = "/page/telegram/"
 weight = 8
 
-
+[[menu.main]]
+name = "Downloads"
+url = "/page/downloads/"
+weight = 9
 

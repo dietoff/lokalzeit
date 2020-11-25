@@ -67,50 +67,6 @@ Channel Browser Blättere durch die Tagebucheinträge der Teilnehmer (neues Fens
     </item>
     
     <item>
-      <title>Corona-Wörter / Corona-Neusprech</title>
-      <link>/project/penko/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/penko/</guid>
-      <description>Seit März 2020 gesammelte Wortschöpfungen und Begriffe aus dem öffentlichen Medienraum der jüngsten Covid19-Phase. Es sind Begriffe / Redewendungen / neue Wörter / aktuelles Wording bzw. Corona-Neusprech, die mit der Pandemie und deren Gegenmaßnahmen, sowie dem Für und Wider in Zusammenhang stehen.
-Die Wörter sollen ein Kopfkino starten, einen inneren Klang hervorrufen, Erinnerungen und Assoziationen, oder sie können die Situation karikieren und uns zum Lachen bringen. Hier eine kleine Auswahl:</description>
-    </item>
-    
-    <item>
-      <title>digitales Fenster</title>
-      <link>/project/zoe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/zoe/</guid>
-      <description>In Zeiten des Corona-Lockdowns waren meine Verbindungen zur Außenwelt die digitalen Calls über diverse Programme wie Skype oder Zoom.
-Mein digitales Fenster.
-Eine spürbarer Abstand und eine gewisse Verfremdung der beteiligten Personen lässt sich dabei nicht verhindern, sodass die Isolation langsam wächst.
- Mein digitales Fenster, Zoe Spehr 2020
-  </description>
-    </item>
-    
-    <item>
-      <title>Fünf Riechübungen</title>
-      <link>/project/holger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/holger/</guid>
-      <description>Fünf Riechuebungen - Deutsch pdf | Fünf Riechuebungen - English pdf
-Riechen Sie das? Die Pandemie und unsere hygienischen Maßnahmen dagegen verändern schrittweise auch, was genau wir riechen - und wie wir diese Gerüche bewerten. Plötzlich ziehen alkoholische Schwaden durch alle Gebäude; Desinfektionsdüfte, die wir sonst nur aus Kliniken kennen oder Tattoostudios, begleiten unseren Berufsalltag oder unsere Freizeit; und sobald wir zu deutlich den Körpergeruch oder das Parfum einer anderen Person riechen, wissen wir: wir haben den Mindestabstand unterschritten.</description>
-    </item>
-    
-    <item>
-      <title>Hinterhöfe, fences, communities</title>
-      <link>/project/cusack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/cusack/</guid>
-      <description>Soundwalk Part 1 pdf
- Route Moritzplatz
-  Dieser Soundwalk rund um den Moritzplatz konzentriert sich auf die Vielfalt der dortigen Hinterhöfe. Diese bieten eine Vielzahl von klanglichen Orten und trennen von den belebten Straßen außerhalb. Es gibt hier alte Höfe, die durch schmale Bögen betreten werden und exotische Gärten, umschlossen von Wohnanlagen, die so neu sind, dass Menschen immer noch einziehen. Und es gibt grüne, baumbepflanzte Flächen zwischen den hohen Gebäuden, die man zur Zeit der Berliner Mauer für gemeinsame Nutzung plante, heute aber durch Gatter und ein Labyrinth aus Drahtzäunen voneinander getrennt sind.</description>
-    </item>
-    
-    <item>
       <title>Kontakt</title>
       <link>/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -126,7 +82,16 @@ kontakt@clb-berlin.de
     </item>
     
     <item>
-      <title>Lockdown 2</title>
+      <title>Kontakt</title>
+      <link>/page/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/downloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>on air - Lockdown 2</title>
       <link>/project/hannes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -136,16 +101,7 @@ lockdown 2 ist ein live konzert unter pandemischen bedingungen im schaufenster d
     </item>
     
     <item>
-      <title>Mein Kiesel</title>
-      <link>/project/sam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/sam/</guid>
-      <description>Mein Kiesel ist ein Klangstück in drei Teilen. In Form einer kleinen Geschichte gibt das Stück Anregungen und Handlungsanweisungen zur Erforschung des persönlichen Klangraums. Es wurde Anfang Mai 2020 für Quarantänesituationen im harten Lockdown komponiert. Dabei handelt es sich um eine Reihe von kleinen Übungen mit experimentellem Charakter, die bei Ausübung ein Zimmer oder eine ganze Wohnung zum Sprechen / Klingen bringen. Langsam wird dabei der Wohnraum zum Klangraum und ein Denken mit den Ohren entwickelt sich beim Spieler.</description>
-    </item>
-    
-    <item>
-      <title>Männer vom Moritzplatz</title>
+      <title>on air - Männer vom Moritzplatz</title>
       <link>/project/ursula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -154,7 +110,7 @@ lockdown 2 ist ein live konzert unter pandemischen bedingungen im schaufenster d
     </item>
     
     <item>
-      <title>Radio Aporee</title>
+      <title>on air - Radio Aporee</title>
       <link>/project/aporee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -163,7 +119,103 @@ lockdown 2 ist ein live konzert unter pandemischen bedingungen im schaufenster d
     </item>
     
     <item>
-      <title>SCHUHzuGEHÖR</title>
+      <title>on air - Zeitgabenzaun</title>
+      <link>/project/maren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/maren/</guid>
+      <description>Obdachlose finden an einem Gabenzaun seit dem Shutdown im Pandemiefrühling 2020 Kleider, Lebensmittel, auch kleinere Haushaltsgegenstände. In Taschen und Tüten hängen sie dort, oft an Parkanlagen oder öffentlichen Plätzen. Weithin sichtbare Schilder weisen darauf hin.
+Der Zeitgabenzaun gibt Ihnen Zeit: Zeit für Sie selbst oder Zeit für andere? Zeit für Seltenes oder Vergessenes?
+Schneiden Sie etwas aus Ihrem Zeitkontingent ab und schenken Sie es sich.
+Sie können Ihre Gabe an unseren Zeitgabenzaun hängen: Sie gehen dazu auf unseren Telegram-Account und laden eine Aufnahme hoch, in der Sie kurz über Ihre Zeitgabe berichten.</description>
+    </item>
+    
+    <item>
+      <title>on site - abstimmen</title>
+      <link>/project/abstimmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/abstimmen/</guid>
+      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.
+  </description>
+    </item>
+    
+    <item>
+      <title>on site - Corona-Wörter / Corona-Neusprech</title>
+      <link>/project/penko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/penko/</guid>
+      <description>Seit März 2020 gesammelte Wortschöpfungen und Begriffe aus dem öffentlichen Medienraum der jüngsten Covid19-Phase. Es sind Begriffe / Redewendungen / neue Wörter / aktuelles Wording bzw. Corona-Neusprech, die mit der Pandemie und deren Gegenmaßnahmen, sowie dem Für und Wider in Zusammenhang stehen.
+Die Wörter sollen ein Kopfkino starten, einen inneren Klang hervorrufen, Erinnerungen und Assoziationen, oder sie können die Situation karikieren und uns zum Lachen bringen. Hier eine kleine Auswahl:</description>
+    </item>
+    
+    <item>
+      <title>on site - digitales Fenster</title>
+      <link>/project/zoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/zoe/</guid>
+      <description>In Zeiten des Corona-Lockdowns waren meine Verbindungen zur Außenwelt die digitalen Calls über diverse Programme wie Skype oder Zoom.
+Mein digitales Fenster.
+Eine spürbarer Abstand und eine gewisse Verfremdung der beteiligten Personen lässt sich dabei nicht verhindern, sodass die Isolation langsam wächst.
+ Mein digitales Fenster, Zoe Spehr 2020
+  </description>
+    </item>
+    
+    <item>
+      <title>on site - nahbeidir</title>
+      <link>/project/nahbeidir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nahbeidir/</guid>
+      <description>  In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir.
+  </description>
+    </item>
+    
+    <item>
+      <title>on site - Virtual Preview</title>
+      <link>/project/nika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/nika/</guid>
+      <description>I used to find exhibition openings often tedious and I thought of them rather as a task that has to be fulfilled than a pleasure. Now I miss them. The Virtual Preview is a nostalgic work and a visualisation of what I would really enjoy doing right now, meeting colleagues, friends and some new people in a large group.
+&amp;ndash; Nika Radić
+Videoinstallation im CLB Berlin, von der Strasse aus zu betrachen.</description>
+    </item>
+    
+    <item>
+      <title>on tour - Fünf Riechübungen</title>
+      <link>/project/holger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/holger/</guid>
+      <description>Fünf Riechuebungen - Deutsch pdf | Fünf Riechuebungen - English pdf
+Riechen Sie das? Die Pandemie und unsere hygienischen Maßnahmen dagegen verändern schrittweise auch, was genau wir riechen - und wie wir diese Gerüche bewerten. Plötzlich ziehen alkoholische Schwaden durch alle Gebäude; Desinfektionsdüfte, die wir sonst nur aus Kliniken kennen oder Tattoostudios, begleiten unseren Berufsalltag oder unsere Freizeit; und sobald wir zu deutlich den Körpergeruch oder das Parfum einer anderen Person riechen, wissen wir: wir haben den Mindestabstand unterschritten.</description>
+    </item>
+    
+    <item>
+      <title>on tour - Hinterhöfe, fences, communities</title>
+      <link>/project/cusack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cusack/</guid>
+      <description>Soundwalk Part 1 pdf
+ Route Moritzplatz
+  Dieser Soundwalk rund um den Moritzplatz konzentriert sich auf die Vielfalt der dortigen Hinterhöfe. Diese bieten eine Vielzahl von klanglichen Orten und trennen von den belebten Straßen außerhalb. Es gibt hier alte Höfe, die durch schmale Bögen betreten werden und exotische Gärten, umschlossen von Wohnanlagen, die so neu sind, dass Menschen immer noch einziehen. Und es gibt grüne, baumbepflanzte Flächen zwischen den hohen Gebäuden, die man zur Zeit der Berliner Mauer für gemeinsame Nutzung plante, heute aber durch Gatter und ein Labyrinth aus Drahtzäunen voneinander getrennt sind.</description>
+    </item>
+    
+    <item>
+      <title>on tour - Mein Kiesel</title>
+      <link>/project/sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/sam/</guid>
+      <description>Mein Kiesel ist ein Klangstück in drei Teilen. In Form einer kleinen Geschichte gibt das Stück Anregungen und Handlungsanweisungen zur Erforschung des persönlichen Klangraums. Es wurde Anfang Mai 2020 für Quarantänesituationen im harten Lockdown komponiert. Dabei handelt es sich um eine Reihe von kleinen Übungen mit experimentellem Charakter, die bei Ausübung ein Zimmer oder eine ganze Wohnung zum Sprechen / Klingen bringen. Langsam wird dabei der Wohnraum zum Klangraum und ein Denken mit den Ohren entwickelt sich beim Spieler.</description>
+    </item>
+    
+    <item>
+      <title>on tour - SCHUHzuGEHÖR</title>
       <link>/project/katrinem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -171,6 +223,19 @@ lockdown 2 ist ein live konzert unter pandemischen bedingungen im schaufenster d
       <description>SCHUHzuGEHÖR Karte &amp;amp; Beschreibung pdf
  katrinem Route Moritzplatz
   Ausgehend von der Galerie CLB Berlin am Moritzplatz, habe ich einen Weg notiert, der eine Vielzahl an Möglichkeiten bietet, sich mit dem Gehen an sich, dem Schuhwerk, der Fußläufigkeit dieses städtischen Quartiers und seinen architektonischen sowie atmosphärischen Qualitäten auseinanderzusetzen. Die Weglänge beträgt 1,81 km und dauert etwa 35 Minuten. Ich empfehle, den Weg zweimal zu gehen: einmal zur Orientierung und einmal als Hörerlebnis.</description>
+    </item>
+    
+    <item>
+      <title>on tour- Zwischen den Häusern sitzen.</title>
+      <link>/project/georg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/georg/</guid>
+      <description>Soundwalk Karte und Text pdf
+ Georg Spehr Route Moritzplatz
+  Ein Stadtspaziergang mit Sitzgelegenheiten in der Südwestlichen Luisenstadt.
+Der Kreuzberger Teil der Luisenstadt ist vieles: Altes Berlin und Aufbaugebiet, Kahlschlagsanierung und Stadterneuerung, Mauerrandlage und exponiertes Zentrum, sozialer Wohnungsbau und Spekulationsobjekt. Dieser Stadtspaziergang durchstreift zwischen Lindenstraße und Prinzenstraße ein Gebiet, in dem mehr als 10.000 Menschen leben und das eine vielfältige Stadtentwicklung von mehr als 100 Jahren beinhaltet.
+Ein besonderes Augenmerk liegt dabei auf fest installierten Sitzbänken, die dazu einladen, hier einen längeren Moment zu verweilen und sich mit der Atmosphäre des jeweiligen Ortes auseinanderzusetzen.</description>
     </item>
     
     <item>
@@ -189,43 +254,8 @@ Kim Albrecht | Sam Auinger | Ingrid Beirer | Peter Cusack | Eliot Felde | Maren 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/telegram/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Virtual Preview</title>
-      <link>/project/nika/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/nika/</guid>
-      <description>I used to find exhibition openings often tedious and I thought of them rather as a task that has to be fulfilled than a pleasure. Now I miss them. The Virtual Preview is a nostalgic work and a visualisation of what I would really enjoy doing right now, meeting colleagues, friends and some new people in a large group.
-&amp;ndash; Nika Radić
-Videoinstallation im CLB Berlin, von der Strasse aus zu betrachen.</description>
-    </item>
-    
-    <item>
-      <title>Zeitgabenzaun</title>
-      <link>/project/maren/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/maren/</guid>
-      <description>Obdachlose finden an einem Gabenzaun seit dem Shutdown im Pandemiefrühling 2020 Kleider, Lebensmittel, auch kleinere Haushaltsgegenstände. In Taschen und Tüten hängen sie dort, oft an Parkanlagen oder öffentlichen Plätzen. Weithin sichtbare Schilder weisen darauf hin.
-Der Zeitgabenzaun gibt Ihnen Zeit: Zeit für Sie selbst oder Zeit für andere? Zeit für Seltenes oder Vergessenes?
-Schneiden Sie etwas aus Ihrem Zeitkontingent ab und schenken Sie es sich.
-Sie können Ihre Gabe an unseren Zeitgabenzaun hängen: Sie gehen dazu auf unseren Telegram-Account und laden eine Aufnahme hoch, in der Sie kurz über Ihre Zeitgabe berichten.</description>
-    </item>
-    
-    <item>
-      <title>Zwischen den Häusern sitzen.</title>
-      <link>/project/georg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/georg/</guid>
-      <description>Soundwalk Karte und Text pdf
- Georg Spehr Route Moritzplatz
-  Ein Stadtspaziergang mit Sitzgelegenheiten in der Südwestlichen Luisenstadt.
-Der Kreuzberger Teil der Luisenstadt ist vieles: Altes Berlin und Aufbaugebiet, Kahlschlagsanierung und Stadterneuerung, Mauerrandlage und exponiertes Zentrum, sozialer Wohnungsbau und Spekulationsobjekt. Dieser Stadtspaziergang durchstreift zwischen Lindenstraße und Prinzenstraße ein Gebiet, in dem mehr als 10.000 Menschen leben und das eine vielfältige Stadtentwicklung von mehr als 100 Jahren beinhaltet.
-Ein besonderes Augenmerk liegt dabei auf fest installierten Sitzbänken, die dazu einladen, hier einen längeren Moment zu verweilen und sich mit der Atmosphäre des jeweiligen Ortes auseinanderzusetzen.</description>
+      <description>Diskutiere mit auf Telegram: https://t.me/berlinlokalzeit
+ </description>
     </item>
     
     <item>
@@ -237,26 +267,6 @@ Ein besonderes Augenmerk liegt dabei auf fest installierten Sitzbänken, die daz
       <description>Eliot Felde, 2. Mai 2020
   #BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
 30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet.</description>
-    </item>
-    
-    <item>
-      <title>‍‌#abstimmen</title>
-      <link>/project/abstimmen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/abstimmen/</guid>
-      <description>Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerade wieder große Einschränkungen. Welche Auswirkungen haben diese auf dein Verständnis von Freiheit, Demokratie und Selbstbestimmung? Einfache Abstimmungsstationen vor dem CLB Berlin fordern dich auf, deine Meinung zum Ausdruck zu bringen und ein Foto deiner Abstimmung auf Instagram #berlin_lokal_zeit #abstimmen zu teilen.
-  </description>
-    </item>
-    
-    <item>
-      <title>‍‌#nahbeidir</title>
-      <link>/project/nahbeidir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/nahbeidir/</guid>
-      <description>  In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir.
-  </description>
     </item>
     
   </channel>

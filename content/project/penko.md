@@ -1,6 +1,6 @@
 ---
 author: Max Joy
-title: Corona-Wörter / Corona-Neusprech
+title: on site - Corona-Wörter / Corona-Neusprech
 description: Laufschrift Installation von Max Joy
 ---
 

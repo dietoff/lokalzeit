@@ -1,6 +1,6 @@
 ---
 author: Nika Radić
-title: Virtual Preview
+title: on site - Virtual Preview
 description: Videoinstallation von Nika Radić
 ---
 

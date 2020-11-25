@@ -1,6 +1,6 @@
 ---
 author: Zoe Spehr
-title: digitales Fenster
+title: on site - digitales Fenster
 description: Videoinstallation von Zoe Spehr
 ---
 
