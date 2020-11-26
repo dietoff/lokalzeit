@@ -7,8 +7,7 @@ title: Downloads und Kontakt
 Postkarte [deutsch](../../doc/BLZ_postkarte_DE.pdf) [englisch](../../doc/BLZ_postkarte_EN.pdf) 
 
 #### Fotos
-
-{{< figure src="/img/thumb/CLB_Fassade_Foto_Nika_Radic.jpg" link="/img/presse/CLB_Fassade_Foto_Nika_Radic.jpg" caption="CLB Fassade (Foto Nika Radic) " >}}
+[Press foto download page]({{< relref "fotos.md" >}})
 
 #### Soundwalks und Handlungsanleitungen
 [Hartmann - Gabenzaun pdf](../../doc/Gabenzaun-Eigenzeit.pdf)  

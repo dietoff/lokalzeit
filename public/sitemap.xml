@@ -47,15 +47,15 @@
   </url>
   
   <url>
+    <loc>/page/fotos/</loc>
+  </url>
+  
+  <url>
     <loc>/page/contact/</loc>
   </url>
   
   <url>
     <loc>/project/hannes/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/ursula/</loc>
   </url>
   
   <url>
@@ -96,6 +96,10 @@
   
   <url>
     <loc>/project/sam/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/ursula/</loc>
   </url>
   
   <url>

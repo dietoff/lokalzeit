@@ -74,8 +74,8 @@ Channel Browser Blättere durch die Tagebucheinträge der Teilnehmer (neues Fens
       <guid>/page/downloads/</guid>
       <description>Presse Pressetext pdf
 Postkarte deutsch englisch
-Fotos  CLB Fassade (Foto Nika Radic)
-  Soundwalks und Handlungsanleitungen Hartmann - Gabenzaun pdf
+Fotos Press foto download page
+Soundwalks und Handlungsanleitungen Hartmann - Gabenzaun pdf
 Auinger - Mein Kiesel pdf
 Cusack Soundwalk pdf
 Schulze de/en pdf Spehr Soundwalk pdf
@@ -88,6 +88,22 @@ Prinzenstraße 84.2
 kontakt@clb-berlin.de
   Georg Spehr, 21. Mai 2020
   </description>
+    </item>
+    
+    <item>
+      <title>Fotos</title>
+      <link>/page/fotos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/fotos/</guid>
+      <description>Fotos  CLB Fassade (Foto Nika Radic)
+   CLB Digitales Fenster, Virtual Preview (Foto Nika Radic)
+   CLB Innenraum 2 (Foto Nika Radic)
+   CLB Innenraum (Foto Nika Radic)
+   CLB QR Codes (Foto Nika Radic)
+   CLB aussen 2 (Foto Nika Radic)
+   CLB aussen 3 (Foto Nika Radic)
+   CLB aussen (Foto Nika Radic)</description>
     </item>
     
     <item>
