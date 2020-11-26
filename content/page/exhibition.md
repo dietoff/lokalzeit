@@ -1,8 +1,7 @@
 ---
 Title: Ausstellung
 ---
-
-{{< figure src="/img/saeule.jpg" class="figure-sm" caption="katrinem, 21. Oktober 2020">}}
+{{< figure src="/img/CLB_QR_Codes.jpg#align-center" >}}
 
 QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum.
 
@@ -14,10 +13,10 @@ QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum.
 Berlin_Lokal_Zeit Archiv  
 
 
-
-
 Ab 21. November 2020    
 [CLB Berlin](https://www.clb-berlin.de)  
 Aufbau Haus am Moritzplatz  
 Prinzenstraße 84.2  
 10969 Berlin-Kreuzberg  
+
+{{< figure src="/img/CLB_aussen.jpg#align-center" >}}
