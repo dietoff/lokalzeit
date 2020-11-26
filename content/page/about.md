@@ -11,5 +11,14 @@ title: über das projekt
 [Postkarte DE](../../doc/BLZ_postkarte_DE.pdf) | 
 [Postcard EN](../../doc/BLZ_postkarte_EN.pdf)  
 
+Aufgrund der besonderen Situation würden wir uns über Ihre und Eure Unterstützung sehr freuen. Und wie es so schön bei unseren amerikanischen Kolleg*innen heißt:   
+Your donation makes a difference! A gift of any size can help us to support the arts and artists! Please donate today:
+
+*CLB Berlin  
+IBAN DE95 4306 0967 1181 5563 02  
+Verwendungszweck: "berlinlokalzeit"*  
+
+Vielen Dank!
+
 Unterstützt von:
 {{< figure src="/img/sponsors.png">}}
