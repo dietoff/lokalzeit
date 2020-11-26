@@ -48,7 +48,7 @@ readingTimeText = "Estimated reading time:"
 post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-name = "Zum Projekt"
+name = "Projekt"
 url = "/page/about/"
 weight = 1
 

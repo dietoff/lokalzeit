@@ -1,8 +1,8 @@
 ---
 author: katrinem
-title: on tour - SCHUHzuGEHÖR
+title: on site - SCHUHzuGEHÖR
 description: Soundwalk von katrinem
-tags: ["ontour"]
+tags: ["onsite"]
 ---
 
 [SCHUHzuGEHÖR Karte & Beschreibung pdf](../../doc/katrinem.pdf)

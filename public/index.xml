@@ -162,6 +162,16 @@ Sie können Ihre Gabe an unseren Zeitgabenzaun hängen: Sie gehen dazu auf unser
     </item>
     
     <item>
+      <title>on site - BERLIN_LOKAL_ZEIT Archiv</title>
+      <link>/project/archiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/archiv/</guid>
+      <description>Eine Auswahl von Fotografien aus dem Archiv der Stadtraumbeaobachtungen seit April 2020.
+  </description>
+    </item>
+    
+    <item>
       <title>on site - Corona-Wörter / Corona-Neusprech</title>
       <link>/project/penko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -185,6 +195,16 @@ Eine spürbarer Abstand und eine gewisse Verfremdung der beteiligten Personen l�
     </item>
     
     <item>
+      <title>on site - Homeoffice</title>
+      <link>/project/homeoffice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/homeoffice/</guid>
+      <description>BERLIN_LOKAL_ZEIT: Der derzeit nicht zugängliche CLB-Ausstellungsraum wird von den Berlin_Lokal_Zeit-Beteiligen auch als Werkstatt / HomeOffice / Arbeitsraum genutzt. Hier entstehen weitere Arbeiten, die in die verschiedenen Präsentationsformate einfliessen und sofort verfügbar sind.
+  </description>
+    </item>
+    
+    <item>
       <title>on site - nahbeidir</title>
       <link>/project/nahbeidir/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -192,6 +212,17 @@ Eine spürbarer Abstand und eine gewisse Verfremdung der beteiligten Personen l�
       <guid>/project/nahbeidir/</guid>
       <description>  In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Menschen, die du liebst, gerade nahe sein und wenn ja, auf welche Weise? Stelle dich alleine oder mit deinen Liebsten in die Zeichen auf dem Gehweg, die deiner/eurer Liebesnähe in Zeiten von Corona entsprechen und zeigt, was ihr fühlt. Teile dein Video oder Foto auf Instagram mit #berlin_lokal_zeit #nahbeidir.
   </description>
+    </item>
+    
+    <item>
+      <title>on site - SCHUHzuGEHÖR</title>
+      <link>/project/katrinem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/katrinem/</guid>
+      <description>SCHUHzuGEHÖR Karte &amp;amp; Beschreibung pdf
+ katrinem Route Moritzplatz
+  Ausgehend von der Galerie CLB Berlin am Moritzplatz, habe ich einen Weg notiert, der eine Vielzahl an Möglichkeiten bietet, sich mit dem Gehen an sich, dem Schuhwerk, der Fußläufigkeit dieses städtischen Quartiers und seinen architektonischen sowie atmosphärischen Qualitäten auseinanderzusetzen. Die Weglänge beträgt 1,81 km und dauert etwa 35 Minuten. Ich empfehle, den Weg zweimal zu gehen: einmal zur Orientierung und einmal als Hörerlebnis.</description>
     </item>
     
     <item>
@@ -245,17 +276,6 @@ Riechen Sie das? Die Pandemie und unsere hygienischen Maßnahmen dagegen veränd
     </item>
     
     <item>
-      <title>on tour - SCHUHzuGEHÖR</title>
-      <link>/project/katrinem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/katrinem/</guid>
-      <description>SCHUHzuGEHÖR Karte &amp;amp; Beschreibung pdf
- katrinem Route Moritzplatz
-  Ausgehend von der Galerie CLB Berlin am Moritzplatz, habe ich einen Weg notiert, der eine Vielzahl an Möglichkeiten bietet, sich mit dem Gehen an sich, dem Schuhwerk, der Fußläufigkeit dieses städtischen Quartiers und seinen architektonischen sowie atmosphärischen Qualitäten auseinanderzusetzen. Die Weglänge beträgt 1,81 km und dauert etwa 35 Minuten. Ich empfehle, den Weg zweimal zu gehen: einmal zur Orientierung und einmal als Hörerlebnis.</description>
-    </item>
-    
-    <item>
       <title>on tour - Zwischen den Häusern sitzen.</title>
       <link>/project/georg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -295,7 +315,7 @@ Kim Albrecht | Sam Auinger | Ingrid Beirer | Peter Cusack | Eliot Felde | Maren 
       
       <guid>/page/about/</guid>
       <description>Eliot Felde, 2. Mai 2020
-  #BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
+  BERLIN_LOKAL_ZEIT ist ein partizipatives Projekt, das zum Ziel hat, Erfahrung des alltäglichen Lebens in der Stadt während der Pandemie einzufangen und gemeinsam zu reflektieren. Welche Phänomene treten auf, wie verändern sie sich und unsere Haltung zu ihnen im Laufe der Zeit?
 30 Beteiligte haben die vielen kleinen Veränderungen, die sich seit Beginn der Pandemie vollzogen haben, in Bild, Text und Ton dokumentiert und verarbeitet.</description>
     </item>
     
