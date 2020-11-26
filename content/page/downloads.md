@@ -3,7 +3,7 @@ title: Downloads und Kontakt
 ---
 
 #### Presse
-[Pressetext pdf](../../doc/CLB_BLZ_2020.pdf)  
+[Pressetext pdf](../../doc/CLB_PM_BLZ_2020.pdf)  
 Postkarte [deutsch](../../doc/BLZ_postkarte_DE.pdf) [englisch](../../doc/BLZ_postkarte_EN.pdf) 
 
 #### Fotos
