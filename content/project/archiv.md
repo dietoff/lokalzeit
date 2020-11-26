@@ -5,4 +5,4 @@ tags: ["onsite"]
 
 Eine Auswahl von Fotografien aus dem Archiv der Stadtraumbeaobachtungen seit April 2020. 
 
-{{< figure src="/img/archiv.jpg">}}
+{{< figure src="/img/archiv.jpg" caption="Foto Nika Radić">}}
