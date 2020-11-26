@@ -1,6 +1,6 @@
 ## Berlin Springtime 
 
-![Berlin Springtime](/img/paul1.jpg)
+{{<figure src="/img/paul1.jpg" class="figure-sm">}}
 
 By Paul Scraton 
 
@@ -45,7 +45,7 @@ In front of Cafe Alibi, Georg S. comes across a [trailer from Die Linke](https:/
 
 *Zu bezahlen*
 
-![Berlin Springtime](/img/paul2.jpg)
+{{<figure src="/img/paul2.jpg" class="figure-sm">}}
 
 There is a certain joy in a city stalled, in the break from the norm and the disruption of routine, but sooner or later time turns this strange pleasure into anxiety. On the stairs my musician neighbour counts off the sessions cancelled and the gigs that will never take place. Teaching and busking, he says, answering my question with a wry smile. He’s done it before.
 
@@ -61,7 +61,7 @@ Georg S. is on Oranienstraße and Wienerstraße, where the pubs, clubs and bars 
 
 On the stairs of our building on Osloer Straße I meet our neighbours from a few floors below. Their girls have been home, their restaurant was closed. We do not know each other well enough to ask and answer the questions that hang in the musty stairwell between us. How long, how long. Time means everything right now, and everyone’s limit is different.
 
-![Berlin Springtime](/img/paul3.jpg)
+{{<figure src="/img/paul3.jpg" class="figure-sm">}}
 
 Max J. collates the [new language of our times](https://berlinlokalzeit.de/page/channels.html?c=10&i=25).
 
@@ -109,4 +109,4 @@ We cannot know what the Berlin springtime means, because it’s not over yet.
 
 *By Paul Scraton, with material from the audio, visual and written diary entries of various members of [Berlin_Lokal_Zeit](https://berlinlokalzeit.de).*
 
-![Berlin Springtime](/img/paul4.jpg)
+{{<figure src="/img/paul4.jpg" class="figure-sm" caption="All photos by Paul Scraton">}}

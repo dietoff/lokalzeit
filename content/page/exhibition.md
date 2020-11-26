@@ -1,9 +1,8 @@
 ---
 Title: Ausstellung
 ---
-{{< figure src="/img/CLB_QR_Codes.jpg#align-center" >}}
+{{< figure src="/img/CLB_QR_Codes.jpg#align-center" title="QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum" >}}
 
-QR-code Installation und Ausstellung einsehbar vom öffentlichen Raum.
 
 "[walking alone](https://vimeo.com/476906437)" von katrinem  
 "[virtual preview]({{< relref "/project/nika.md" >}})" von Nika Radić  
