@@ -53,7 +53,7 @@ url = "/page/about/"
 weight = 1
 
 [[menu.main]]
-name = "Installation"
+name = "Ort"
 url = "/page/exhibition/"
 weight = 3
 
