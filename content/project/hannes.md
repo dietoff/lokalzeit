@@ -30,3 +30,5 @@ interested and passing people can log in with the help of a qr code and listen l
 
 *composition for electric bass, live fx and ambient sound on location. 
 hannes strobl: electric bass, live fx*
+
+![Hannes Bass](/img/bass_hannes.jpg#align-center)
