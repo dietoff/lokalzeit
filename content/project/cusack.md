@@ -5,7 +5,8 @@ description: Soundwalk von Peter Cusack
 tags: ["ontour"]
 ---
 
-[Soundwalk Part 1 pdf](../../doc/PeterCusack_Soundwalk_Part1.pdf)
+[Soundwalk Part 1 pdf](/doc/PeterCusack_Soundwalk_Part1.pdf)  
+[Soundwalk Part 2 pdf](/doc/PeterCusack_Soundwalk_Part2.pdf)  
 
 {{< figure src="/img/test_peter_cusack_shape.jpg" class="figure-sm" caption="Route Moritzplatz">}}
 
