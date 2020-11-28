@@ -4,7 +4,7 @@ title: on tour - Zwischen den Häusern sitzen.
 description: Soundwalk von Georg Spehr
 tags: ["ontour"]
 ---
-[Soundwalk Karte und Text pdf](../../doc/Spehr_Soundwalk.pdf)
+[Soundwalk Karte und Text pdf](/doc/Spehr_Soundwalk.pdf)
 
 {{< figure src="/img/_Walk_Georg_Shape.jpg" class="figure-sm" caption="Georg Spehr Route Moritzplatz">}}
 
@@ -16,7 +16,7 @@ Ein besonderes Augenmerk liegt dabei auf fest installierten Sitzbänken, die daz
 
 Der Spaziergang beginnt und endet am Moritzplatz, vor dem Eingang des Aufbauhauses.
 
- 
+
 A city walk with seating in the southwestern Luisenstadt.
 
 The Kreuzberg part of Luisenstadt is very varied. It is historic Berlin and a development area, a site of total redevelopment and urban renewal, a place once located along the edge of the Berlin Wall now in the city centre, a district of both social housing and intense property speculation. This city walk passes between Lindenstrasse and Prinzenstrasse through an area where more than 10,000 people live and which has seen diverse urban development for more than 100 years.

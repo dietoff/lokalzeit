@@ -10,8 +10,8 @@ title: über das projekt
 
 Aufgrund der derzeitigen Lockdown-Bestimmungen in Berlin sind alle Arbeiten in einem angepassten Format on site, on tour und on air seit 21.11.2020 und fortlaufend erlebbar.
 
-[Postkarte DE](../../doc/BLZ_postkarte_DE.pdf) | 
-[Postcard EN](../../doc/BLZ_postkarte_EN.pdf)  
+[Postkarte DE](/doc/BLZ_postkarte_DE.pdf) | 
+[Postcard EN](/doc/BLZ_postkarte_EN.pdf)  
 
 Aufgrund der besonderen Situation würden wir uns über Ihre und Eure Unterstützung sehr freuen. Und wie es so schön bei unseren amerikanischen Kolleg*innen heißt:   
 Your donation makes a difference! A gift of any size can help us to support the arts and artists! Please donate today:

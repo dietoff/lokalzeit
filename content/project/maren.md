@@ -16,4 +16,4 @@ Sie können Ihre Gabe an unseren Zeitgabenzaun hängen: Sie gehen dazu auf unser
 Auch ich berichte über meine Zeitgabe: ich habe mir 21 Tage Zeit geschenkt - Reha-Zeit. Ein Klinik-Aufenthalt im Oktober/November 2020, in Zeiten von Corona, nach einem Jahr Krebstherapie. 
 Jeden Tag ab dem 21.11. werde ich einen Tag der Zeitgabe im Telegram-Kanal hochladen. Zum Nachhören.
 
-[Gabenzaun-Eigenzeit](../../doc/Gabenzaun-Eigenzeit.pdf)
+[Gabenzaun-Eigenzeit](/doc/Gabenzaun-Eigenzeit.pdf)

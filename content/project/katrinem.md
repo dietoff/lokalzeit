@@ -1,11 +1,11 @@
 ---
 author: katrinem
-title: on site - SCHUHzuGEHÖR
+title: on site & on tour - SCHUHzuGEHÖR
 description: Soundwalk von katrinem
-tags: ["onsite"]
+tags: ["onsite", "ontour"]
 ---
 
-[SCHUHzuGEHÖR Karte & Beschreibung pdf](../../doc/katrinem.pdf)
+[SCHUHzuGEHÖR Karte & Beschreibung pdf](/doc/katrinem.pdf)
 
 {{< figure src="/img/katrinem_shape.jpg" class="figure-sm" caption="katrinem Route Moritzplatz">}}
 
