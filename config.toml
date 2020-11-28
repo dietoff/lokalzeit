@@ -73,7 +73,7 @@ weight = 6
 
 [[menu.main]]
 name = "Live"
-url = "/page/telegram/"
+url = "/page/live/"
 weight = 8
 
 [[menu.main]]
