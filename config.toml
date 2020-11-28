@@ -9,7 +9,6 @@ author = "berlin_lokal_zeit"
 paginate = 20
 #googleAnalytics = "G-XXD03VT2TH"
 
-
 [privacy.googleAnalytics]
 anonymizeIP = true
 respectDoNotTrack = true

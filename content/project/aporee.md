@@ -11,4 +11,6 @@ Radio aporee ist ein experimentelles Radio zur Erkundung klang/räumlicher Topog
 
 Über verschiedene Interfaces besteht die Möglichkeit der unmittelbaren Einflussnahme auf das aktuelle Radioprogramm (wenn man es denn so bezeichnen möchte...)
 
+[Radio Aporee link](https://aporee.org/t/berlinlokalzeit/list.php)
+
 {{< figure src="/img/aporee.jpg" caption="broadcast box bx: 15Watt UKW-Sender in-a-box">}}
