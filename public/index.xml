@@ -63,7 +63,8 @@ Prinzenstraße 84.2
       
       <guid>/page/archiv/</guid>
       <description>Archiv der Stadtraumbeobachtungen seit April 2020
-Channel Browser Blättere durch die Tagebucheinträge der Teilnehmer (neues Fenster)  Visualisierung Visualisierung der Einträge im zeitlichen Zusammenhang (Kim Albrecht) (neues Fenster)  Essay von Paul Scraton basierend auf Beobachtungen aus dem Archiv (in English): Berlin Springtime</description>
+Channel Browser Blättere durch die Tagebucheinträge der Teilnehmer (neues Fenster)  Visualisierung Visualisierung der Einträge im zeitlichen Zusammenhang (Kim Albrecht) (neues Fenster)  Essay von Paul Scraton basierend auf Beobachtungen aus dem Archiv (in English): Berlin Springtime
+berlin_lokal_zeit sounds Radio Aporee Soundarchiv</description>
     </item>
     
     <item>
@@ -304,11 +305,12 @@ Kim Albrecht | Sam Auinger | Ingrid Beirer | Peter Cusack | Eliot Felde | Maren 
     
     <item>
       <title>Telegram live feed</title>
-      <link>/page/telegram/</link>
+      <link>/page/live/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/page/telegram/</guid>
-      <description>Diskutiere mit auf Telegram: https://t.me/berlinlokalzeit
+      <guid>/page/live/</guid>
+      <description>Radio Aporee soundarchiv
+Diskutiere mit auf Telegram: https://t.me/berlinlokalzeit
  </description>
     </item>
     
