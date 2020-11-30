@@ -1,8 +1,8 @@
 ---
-title: on tour - Männer vom Moritzplatz
+title: on tour & on air - Männer vom Moritzplatz
 description: Soundwalk von Ursula Rogg
 autor: Ursula Rogg
-tags: ["ontour"]
+tags: ["ontour","onair"]
 ---
 
 Corona am Moritzplatz: Just Music verkauft obwohl es keine Konzerte gibt; Modulor brummt, aber aus Modellen werden keine Ausstellungen. Das Nix Verstehn reicht Tee über den Tresen, als Kaffeehaus und Treffpunkt aber ist es von der zweiten Welle  getroffen.
@@ -11,5 +11,10 @@ Die Stimmen der  Männer vom Moritzplatz (diesmal Männer, ausnahmsweise) gehör
 Geführte Spaziergänge mit Audio-Einspielungen am 5. und 9. Dezember jeweils 16 Uhr (ca 90 min)
 
 [Männer vom Moritzplatz pdf](/doc/rogg.pdf)
+
+[Steffen L](https://aporee.org/blz/SteffenL.mp3)  
+[Mohamed C](https://aporee.org/blz/Momo.mp3)  
+[Andi S](https://aporee.org/blz/AndiS.mp3)  
+[Eike B](https://aporee.org/blz/EikeB.mp3)  
 
 Die gesammelten Episoden sind [hier zu finden](https://soundcloud.com/user-53614921).
