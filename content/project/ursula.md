@@ -12,9 +12,4 @@ Geführte Spaziergänge mit Audio-Einspielungen am 5. und 9. Dezember jeweils 16
 
 [Männer vom Moritzplatz pdf](/doc/rogg.pdf)
 
-[Steffen L](https://aporee.org/blz/SteffenL.mp3)  
-[Mohamed C](https://aporee.org/blz/Momo.mp3)  
-[Andi S](https://aporee.org/blz/AndiS.mp3)  
-[Eike B](https://aporee.org/blz/EikeB.mp3)  
-
 Die gesammelten Episoden sind [hier zu finden](https://soundcloud.com/user-53614921).
