@@ -20,13 +20,9 @@ hannes strobl: elektrischer bass, live fx*
 
 #### hannes strobl / lockdown 2
 
-since the first shutdown in the spring of 2020, my berlin studio has developed a
-series of compositions in the "resonance room" of the pandemic, in particular under
-influence of the changed sound environment and perception.
-for example, in my studio in berlin/wedding (tegel flight path) there was hardly any air traffic to be heard.
+since the first shutdown in the spring of 2020, i created a series of compositions in the “resonance” of the pandemic, in particular under the influence of the changed sound environment and perception. for example, in my studio in berlin/wedding (tegel flight path) there was hardly any air traffic to be heard.
 
-lockdown 2 is a live concert under pandemic conditions in the showcase of the clb gallery.
-interested and passing people can log in with the help of a qr code and listen live.
+lockdown 2 is a live concert under pandemic conditions in the showcase of the clb gallery. interested and passing people can log in with the help of a qr code and listen live.
 
 *composition for electric bass, live fx and ambient sound on location. 
 hannes strobl: electric bass, live fx*
