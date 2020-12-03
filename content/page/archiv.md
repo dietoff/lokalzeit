@@ -18,7 +18,7 @@ Visualisierung der Einträge im zeitlichen Zusammenhang (Kim Albrecht)
 
 # Essay 
 von Paul Scraton basierend auf Beobachtungen aus dem Archiv (in English):
-[Berlin Springtime]({{< relref "/page/springtime.md" >}}), [read by the author]{{<mp3 src="https://aporee.org/blz/paulblzFinalradiomix.mp3" >}}
+[Berlin Springtime]({{< relref "/page/springtime.md" >}}), [read by the author](https://aporee.org/blz/paulblzFinalradiomix.mp3)
 
 # berlin_lokal_zeit sounds
 Radio Aporee [Soundarchiv](https://aporee.org/t/berlinlokalzeit/list.php)
