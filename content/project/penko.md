@@ -37,3 +37,5 @@ Corona-Taskforce
 Abstrich-Management  
 Lüftungs-Gipfel  
 {{% /center %}}
+
+[Kurzinterview mit Max Joy](https://aporee.org/blz/201203CLBmastermaxjoy.mp3)  
