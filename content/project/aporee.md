@@ -7,10 +7,16 @@ tags: ["onair"]
 
 ### radio aporee @ berlin_lokal_zeit
 
-Radio aporee ist ein experimentelles Radio zur Erkundung klang/räumlicher Topographien. Es arbeitet mit einem erweiterten Begriff des Feldes, worin Radio sowohl eine Technologie im Übergang als auch ein Narrativ ist. Aktuelle Entwicklungen zielen darauf ab, eine gemeinsame Radiopraxis unter Hörer*innen, Mitwirkenden und Interessierten zu etablieren. Eine Idee dabei ist, Radio aus alltäglichen Umgebungen, zwischen Anwesenheit und Archiv, Orten und Situationen zu erproben, um neue Formen eines gemeinsamen und partizipativen Radios zu erforschen.
+radio aporee ist ein experimentelles Radio zur Erkundung klang-/zeit-/räumlicher Topographien. Es arbeitet mit einem erweiterten Begriff des Feldes, worin Radio sowohl eine Technologie im Übergang als auch ein Narrativ ist. Aktuelle Entwicklungen zielen darauf ab, eine gemeinsame Radiopraxis unter Hörer*innen, Mitwirkenden und Interessierten zu etablieren. Eine Idee dabei ist, Radio aus alltäglichen Umgebungen, zwischen Anwesenheit und Archiv, Orten und Situationen zu erproben, um neue Formen eines gemeinsamen und partizipativen Radios zu erforschen.
 
-Über verschiedene Interfaces besteht die Möglichkeit der unmittelbaren Einflussnahme auf das aktuelle Radioprogramm (wenn man es denn so bezeichnen möchte...)
+Im Rahmen der Ausstellung berlin_lokal_zeit sendet radio aporee ein tägliches Programm, bestehend aus:
 
-[Radio Aporee link](https://aporee.org/t/berlinlokalzeit/list.php)
+* Field recordings rund um den Moritzplatz in Berlin Kreuzberg, wobei neue Aufnahmen von Beitragenden automatisch integriert werden
+* Collagen aus Beiträgen zum Projekt "Soundscapes in the Pandemic", dass die Veränderungen der Klanglandschaften im Verlauf der Pandemie hörbar macht. Siehe auch: https://aporee.org/maps/projects/corona
+* Live-Konzerte, Soundwalks und Aktivitäten rund um die Austellung
+* Arbeiten der beteiligten Künstler zum Thema der Ausstellung
+
+radio aporee Link: https://radio.aporee.org
+
 
 {{< figure src="/img/aporee.jpg" caption="broadcast box bx: 15Watt UKW-Sender in-a-box">}}
