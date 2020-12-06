@@ -27,4 +27,6 @@ lockdown 2 is a live concert under pandemic conditions in the showcase of the cl
 *composition for electric bass, live fx and ambient sound on location. 
 hannes strobl: electric bass, live fx*
 
+[Aufnahme der Performance](https://aporee.org/blz/Hannesansgenotesstueck.mp3)  
+
 ![Hannes Bass](/img/bass_hannes.jpg#align-center)
