@@ -17,6 +17,6 @@ Im Rahmen der Ausstellung berlin_lokal_zeit sendet radio aporee ein tägliches P
 * Arbeiten der beteiligten Künstler zum Thema der Ausstellung
 
 radio aporee Link: https://radio.aporee.org
-
+[Interview Udo Noll](https://aporee.org/blz/udoradioaporeegespraech.mp3)  
 
 {{< figure src="/img/aporee.jpg" caption="broadcast box bx: 15Watt UKW-Sender in-a-box">}}
