@@ -29,4 +29,4 @@ hannes strobl: electric bass, live fx*
 
 [Aufnahme der Performance](https://aporee.org/blz/Hannesansgenotesstueck.mp3)  
 
-![Hannes Bass](/img/bass_hannes.jpg#align-center)
+![Hannes Bass](/img/hannes.jpg#align-center)
