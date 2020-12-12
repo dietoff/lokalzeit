@@ -20,5 +20,6 @@ In a telephone conversation participants exchange their time experiences and str
 
 Please write to contact@prozessagenten.org if you want to participate.  
 
+[Interview Susanne Jaschko](https://aporee.org/blz/BLZsusannejaschko.mp3)  
 
 {{< figure src="/img/nahbeidir01.jpg">}}

@@ -10,4 +10,6 @@ I used to find exhibition openings often tedious and I thought of them rather as
  
 Videoinstallation im CLB Berlin, von der Strasse aus zu betrachen.  
 
+[Interview Nika Radić](https://aporee.org/blz/BLZNikaRadic.mp3)  
+
 {{< figure src="/img/Nika-Virtual_Preview_Skizze.jpg">}}

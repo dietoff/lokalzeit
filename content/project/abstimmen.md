@@ -10,5 +10,7 @@ Durch die Maßnahmen der Regierung zur Eindämmung der Pandemie erlebst du gerad
 abstimmen (voting)  
 The government's measures to contain the pandemic are now putting you back under severe constraints. What impact do these have on your understanding of freedom, democracy and democratic participation? Simple voting stations in front of CLB Berlin invite you to express your opinion and share a photo of your vote on Instagram #berlin_lokal_zeit #abstimmen.
 
+[Interview Susanne Jaschko](https://aporee.org/blz/BLZsusannejaschko.mp3)  
+
 {{< load-photoswipe >}}
 {{< gallery dir="img/abstimmen/" />}}

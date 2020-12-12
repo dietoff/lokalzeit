@@ -11,4 +11,6 @@ In der Krise sind Liebe, Nähe und Halt wichtiger denn je. Kannst du den Mensche
 nahbeidir (closetoyou)  
 In a crisis, love, closeness and support are more important than ever. Can you be close to the people you love right now and if so, in what way? Stand alone or with your loved ones in the signs on the pavement that correspond to your closeness in times of Corona and show what you feel. Share your video or photo on Instagram with #berlin_lokal_zeit #nahbeidir.
 
+[Interview Susanne Jaschko](https://aporee.org/blz/BLZsusannejaschko.mp3)  
+
 {{< figure src="/img/nahbeidir01.jpg">}}
