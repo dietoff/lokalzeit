@@ -4,7 +4,7 @@ title: on tour - zeit sticken
 description: prozessagenten - Susanne Jaschko
 tags: ["ontour"]
 ---
-{{< figure src="/img/kuessen.jpg">}}
+{{< figure src="/img/zeitsticken/kostbar1.jpg">}}
 
 Viele von uns sind durch die Pandemiemaßnahmen beruflich betroffen und haben derzeit keine Arbeit. Andere trifft die Krankheit direkt oder indirekt durch Quarantäne und Isolation. Der Alltag verlangsamt sich, vertraute Zeitstrukturen gelten nicht mehr, die Zeit öffnet sich. Was machen wir mit der Zeit, wie erleben wir sie? Können wir mit ihr umgehen? Was erkennen wir in ihr und in uns?  
 
@@ -22,4 +22,5 @@ Please write to contact@prozessagenten.org if you want to participate.
 
 [Interview Susanne Jaschko](https://aporee.org/blz/BLZsusannejaschko.mp3)  
 
-{{< figure src="/img/nahbeidir01.jpg">}}
+{{< load-photoswipe >}}
+{{< gallery dir="img/zeitsticken/" />}}
