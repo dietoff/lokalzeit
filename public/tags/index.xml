@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on berlin_lokal_zeit</title>
-    <link>/tags/</link>
+    <link>https://berlinlokalzeit.de/tags/</link>
     <description>Recent content in Tags on berlin_lokal_zeit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>My Name</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>My Name</copyright><atom:link href="https://berlinlokalzeit.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events und Experimente</title>
-      <link>/tags/onair/</link>
+      <link>https://berlinlokalzeit.de/tags/onair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/onair/</guid>
+      <guid>https://berlinlokalzeit.de/tags/onair/</guid>
       <description>Aufgrund der derzeitigen Lockdown-Bestimmungen in Berlin sind alle Arbeiten in einem angepassten Format on site, on tour und on air seit 21.11.2020 und fortlaufend erlebbar.
 on site: Projekte im und am CLB Berlin, Prinzenstraße 84.2, 10969 Berlin-Kreuzberg
 on tour: Soundwalks und Handlungsanweisungen zum Experimentieren
@@ -22,10 +22,10 @@ Zeige alle</description>
     
     <item>
       <title>Events und Experimente</title>
-      <link>/tags/onsite/</link>
+      <link>https://berlinlokalzeit.de/tags/onsite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/onsite/</guid>
+      <guid>https://berlinlokalzeit.de/tags/onsite/</guid>
       <description>Aufgrund der derzeitigen Lockdown-Bestimmungen in Berlin sind alle Arbeiten in einem angepassten Format on site, on tour und on air seit 21.11.2020 und fortlaufend erlebbar.
 on site: Projekte im und am CLB Berlin, Prinzenstraße 84.2, 10969 Berlin-Kreuzberg
 on tour: Soundwalks und Handlungsanweisungen zum Experimentieren
@@ -35,10 +35,10 @@ Zeige alle</description>
     
     <item>
       <title>Events und Experimente</title>
-      <link>/tags/ontour/</link>
+      <link>https://berlinlokalzeit.de/tags/ontour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ontour/</guid>
+      <guid>https://berlinlokalzeit.de/tags/ontour/</guid>
       <description>Aufgrund der derzeitigen Lockdown-Bestimmungen in Berlin sind alle Arbeiten in einem angepassten Format on site, on tour und on air seit 21.11.2020 und fortlaufend erlebbar.
 on site: Projekte im und am CLB Berlin, Prinzenstraße 84.2, 10969 Berlin-Kreuzberg
 on tour: Soundwalks und Handlungsanweisungen zum Experimentieren
