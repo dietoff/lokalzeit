@@ -27,5 +27,4 @@ The walk begins and ends at Moritzplatz, in front of the entrance to the Aufbauh
 
 [Interview Georg Spehr](https://aporee.org/blz/BLZGeorgSpehr.mp3)  
 
-{{< load-photoswipe >}}
-{{< gallery dir="img/georg/"/>}}
+
