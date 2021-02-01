@@ -1,4 +1,4 @@
-baseurl = "https://berlinlokalzeit.de"
+baseurl = "https://berlinlokalzeit.de/"
 title = "berlin_lokal_zeit"
 theme = "ghostwriter"
 languageCode = "en-us"
