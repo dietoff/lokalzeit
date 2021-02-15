@@ -6,7 +6,7 @@ copyright = "My Name"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 author = "berlin_lokal_zeit"
-paginate = 20
+paginate = 50
 #googleAnalytics = "G-XXD03VT2TH"
 
 [privacy.googleAnalytics]
