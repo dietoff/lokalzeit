@@ -3,6 +3,7 @@ author: Sam Auinger
 title: on tour - ENGELBECKEN
 description: Klangstück von Sam Auinger
 tags: ["ontour"]
+thumb: /img/thumbs/engel.jpg
 ---
 ENGELBECKEN / Kreuzberg / Berlin  
 

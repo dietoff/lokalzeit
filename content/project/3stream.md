@@ -3,6 +3,7 @@ author: katrinem, Sam Auinger, Peter Cusack
 title: on air - 3Stream aporee Performance Mix
 description: Experimental live performance
 tags: ["onair"]
+thumb: /img/thumbs/3MicsWalking_06_QuartierLuisenpark.jpg
 ---
 
 Mix von Ausschnitten einer experimentellen live Performance/Übertragung vom 12. Dezember 2020. Peter Cusack, katrinem und Sam Auinger - ausgerüstet mit Audio Live Streaming Devices von Udo Noll - erkundeten an diesem Samstag Nachmittag urbane Situationen und ihre auditiven Qualitäten im Umfeld des Moritzplatzes. Die aufgezeichnete und übertragene Performance basierte auf Aspekten von Peter Cusacks Klangspaziergang »Hinterhöfe« und Sam Auingers Stück »Engelbecken«. Die Künstlerin katrinem begleitet die beiden aktiv mit einem Beseninstrument.

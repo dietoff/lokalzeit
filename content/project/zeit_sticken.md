@@ -3,6 +3,7 @@ author: Susanne Jaschko
 title: on tour - zeit sticken
 description: prozessagenten - Susanne Jaschko
 tags: ["ontour"]
+thumb: /img/thumbs/kostbar1.jpg
 ---
 {{< figure src="/img/zeitsticken/kostbar1.jpg">}}
 

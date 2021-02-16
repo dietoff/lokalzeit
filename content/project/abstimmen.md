@@ -2,6 +2,7 @@
 author: Susanne Jaschko
 title: on site - abstimmen
 description: prozessagenten - Susanne Jaschko
+thumb: /img/thumbs/abstimmen.jpg
 tags: ["onsite"]
 ---
 

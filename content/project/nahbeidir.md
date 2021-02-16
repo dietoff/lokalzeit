@@ -3,6 +3,7 @@ author: Susanne Jaschko
 title: on site - nahbeidir
 description: prozessagenten - Susanne Jaschko
 tags: ["onsite"]
+thumb: /img/thumbs/nahbeidir01.jpg
 ---
 {{< figure src="/img/kuessen.jpg">}}
 

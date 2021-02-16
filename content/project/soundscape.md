@@ -3,6 +3,7 @@ author: Peter Cusack, Udo Noll, and Sam Auinger
 title: on air - Soundscape Diskussion
 description: Diskussion
 tags: ["onair"]
+thumb: /img/thumbs/red.png
 ---
 
 #### Berlin Soundscapes during the year of Pandemic_part_one 

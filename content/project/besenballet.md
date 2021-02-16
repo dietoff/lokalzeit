@@ -3,6 +3,7 @@ author: katrinem
 title: on site - BLZ_BesenBallett_01
 description: Performance von katrinem
 tags: ["onsite"]
+thumb: /img/thumbs/besen.jpg
 ---
 
 Im Innenhof des Aufbauhauses fand am Sonntag, den 14. Februar am späteren Nachmittag (17uhr) ein Besen Ballettstück von katrinem statt. Die Performance wurde mit drei Mobile Mics von Udo Noll in Echtzeit auf den aporee-server gestreamt und von dort direkt ins aporee radio übertragen.

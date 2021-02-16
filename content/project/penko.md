@@ -3,6 +3,7 @@ author: Max Joy
 title: on site - Corona-Wörter / Corona-Neusprech
 description: Laufschrift Installation von Max Joy
 tags: ["onsite"]
+thumb: /img/thumbs/penko.jpg
 ---
 
 Seit März 2020 gesammelte Wortschöpfungen und Begriffe aus dem öffentlichen Medienraum der jüngsten Covid19-Phase. Es sind Begriffe / Redewendungen / neue Wörter / aktuelles Wording bzw. Corona-Neusprech, die mit der Pandemie und deren Gegenmaßnahmen, sowie dem Für und Wider in Zusammenhang stehen. 

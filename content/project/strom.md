@@ -3,6 +3,7 @@ author: tamtam
 title: on air - strom_schauen
 description: Radiostück
 tags: ["onair"]
+thumb: /img/thumbs/red.jpg
 ---
 
 #### strom_schauen  (32:10 min)  by tamtam  berlin, 2021

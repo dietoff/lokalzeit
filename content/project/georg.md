@@ -3,6 +3,7 @@ author: Georg Spehr
 title: on tour - Zwischen den Häusern sitzen.
 description: Soundwalk von Georg Spehr
 tags: ["ontour"]
+thumb: /img/thumbs/_Walk_Georg_Shape.jpg
 ---
 [Soundwalk Karte und Text pdf](/doc/Spehr_Soundwalk.pdf)
 

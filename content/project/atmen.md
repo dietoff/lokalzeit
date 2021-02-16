@@ -3,6 +3,7 @@ author: katrinem
 title: on air - einatmen_ausatmen_Moritzplatz
 description: aufnahme von katrinem
 tags: ["onair"]
+thumb: /img/thumbs/einatmen_ausatmen_moritzplatz.jpeg
 ---
 
 # einatmen_ausatmen_Moritzplatz

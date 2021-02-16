@@ -3,6 +3,7 @@ author: Holger Schulze
 title: on tour - Fünf Riechübungen
 description: Öffentliches Experiment von Holger Schulze
 tags: ["ontour"]
+thumb: /img/thumbs/holger.jpg
 ---
 
 [Fünf Riechuebungen - Deutsch pdf](/doc/Schulze_de.pdf) |

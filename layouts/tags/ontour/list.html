@@ -2,7 +2,7 @@
 
 <div id="post-index" class="container">
     {{ partial "intro_orig.html" . }}
-    {{ .Content }}
+    <div style="padding:0px 20px">{{ .Content }}</div>
     <ol class="post-list">
         
         {{ $pag := .Paginate .Pages }}

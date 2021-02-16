@@ -1,9 +1,18 @@
-<li class="post-stub" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting">
-    <a href="{{ .Permalink }}" itemprop="url">
+<li class="post-stub" itemprop="blogPost" itemscope="" itemtype="https://schema.org/BlogPosting" >
+    
+    <a href="{{ .Permalink }}" itemprop="url" style="display:flex;">
+        
+        {{ with .Params.thumb }}
+            <img src="{{.}}" style="height:100px; width: 180px; object-fit: cover; margin: 0px 10px;">
+        {{ end }}
+        <div style="display:block; padding: 0px 10px;">
         <h5 class="post-stub-title" itemprop="name">{{ .Title }}</h5>
-        <div class="post-stub-description">{{ .Description }}</div>
+        <div class="post-stub-description">{{ .Description }}
+        </div>
+        </div>
         {{ with .Params.featured }}
             <span class="post-stub-tag">Featured</span>
         {{ end }}
+        
     </a>
 </li>
