@@ -30,4 +30,11 @@ hannes strobl: electric bass, live fx*
 
 [Aufnahme der Performance](https://aporee.org/blz/Hannesansgenotesstueck.mp3)  
 
+[Lockdownstücke - lockdown 1](https://aporee.org/blz/lockdown1.mp3)  
+
+[Lockdownstücke - lockdown 2v1](https://aporee.org/blz/lockdown2vers1.mp3)  
+
+[Lockdownstücke - lockdown 2v2](https://aporee.org/blz/lockdown2vers2.mp3)  
+
+
 ![Hannes Bass](/img/hannes.jpg#align-center)

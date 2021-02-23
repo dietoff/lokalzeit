@@ -23,8 +23,10 @@ This soundwalk around the Moritzplatz area focusses on the huge variety of Hinte
 The walk is in 2 parts – north and south of Oranienstrasse – each takes perhaps an hour. Please treat them separately if you wish. The numbers are points of sonic interest along the way. The links are to the radio aporee sound map where recordings can be heard.
 
 Audio:  
-[Dusk spoken intro May 2020](https://aporee.org/blz/DuskMay202020201204151254.mp3)
-[Woosh! recording session August 2020](https://aporee.org/blz/Whooshedit.mp3)
+[Dusk spoken intro May 2020](https://aporee.org/blz/DuskMay202020201204151254.mp3)  
+[Woosh! recording session August 2020](https://aporee.org/blz/Whooshedit.mp3)  
+[Peter Cusack in conversation with Sam Auinger about "Berlin Hinterhof" ](https://aporee.org/blz/petercusackberlinhinterhof.mp3)  
+
 {{< figure src="/img/peter_hinterhoefe.jpg">}}
 
 
